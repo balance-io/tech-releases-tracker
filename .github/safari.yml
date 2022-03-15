@@ -1,4 +1,4 @@
-name: Scrape latest data
+name: Safari Release Notes
 
 on:
   schedule:
@@ -18,5 +18,5 @@ jobs:
           git config user.email "hello@balance.io"
       - run: |
           git add -A
-          git commit -m "Latest data: ${date -u}" || exit 0
+          git commit -m "Safari Release Notes Update: ${date -u}" || exit 0
           git push
