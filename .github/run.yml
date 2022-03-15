@@ -1,0 +1,22 @@
+name: Scrape latest data
+
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron: "0 0,6,12,18 * * *"
+  push:
+  workflow_dispatch:
+
+jobs:
+  safari-release-notes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: curl https://developer.apple.com/tutorials/data/documentation/safari-release-notes.json | python -mjson.tool > data/safari-release-notes.json
+      - run: |
+          git config user.name "BalanceBot"
+          git config user.email "hello@balance.io"
+      - run: |
+          git add -A
+          git commit -m "Latest data: ${date -u}" || exit 0
+          git push
