@@ -20,3 +20,16 @@ jobs:
           git add -A
           git commit -m "Safari Release Notes Update: $(date -u)" || exit 0
           git push
+
+  argent-web3-swift:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: curl https://api.github.com/repos/argentlabs/web3.swift/commits | python -mjson.tool > data/argent-web3-swift.json
+      - run: |
+          git config user.name "BalanceBot"
+          git config user.email "hello@balance.io"
+      - run: |
+          git add -A
+          git commit -m "Argent web3.swift Update: $(date -u)" || exit 0
+          git push
