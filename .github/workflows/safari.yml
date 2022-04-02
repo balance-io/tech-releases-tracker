@@ -33,3 +33,16 @@ jobs:
           git add -A
           git commit -m "Argent web3.swift Update: $(date -u)" || exit 0
           git push
+
+  snapkit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: curl https://api.github.com/repos/SnapKit/SnapKit/commits | python -mjson.tool > data/snapkit.json
+      - run: |
+          git config user.name "BalanceBot"
+          git config user.email "hello@balance.io"
+      - run: |
+          git add -A
+          git commit -m "SnapKit Update: $(date -u)" || exit 0
+          git push
