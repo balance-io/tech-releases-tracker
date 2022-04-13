@@ -1,5 +1,288 @@
 [
     {
+        "sha": "07c5d1f6044701d97e94dc11157259e8811977be",
+        "node_id": "C_kwDOATlxY9oAKDA3YzVkMWY2MDQ0NzAxZDk3ZTk0ZGMxMTE1NzI1OWU4ODExOTc3YmU",
+        "commit": {
+            "author": {
+                "name": "Robert Payne",
+                "email": "robertjpayne@Roberts-MacBook-Pro.local",
+                "date": "2022-04-13T04:23:07Z"
+            },
+            "committer": {
+                "name": "Robert Payne",
+                "email": "robertjpayne@Roberts-MacBook-Pro.local",
+                "date": "2022-04-13T04:23:07Z"
+            },
+            "message": "Merge branch 'main' of github.com:SnapKit/SnapKit into develop\n\n# Conflicts:\n#\tREADME.md\n#\tSnapKit.podspec",
+            "tree": {
+                "sha": "e867250d3f9e44fa25a2c99a026758c632b37c3a",
+                "url": "https://api.github.com/repos/SnapKit/SnapKit/git/trees/e867250d3f9e44fa25a2c99a026758c632b37c3a"
+            },
+            "url": "https://api.github.com/repos/SnapKit/SnapKit/git/commits/07c5d1f6044701d97e94dc11157259e8811977be",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/SnapKit/SnapKit/commits/07c5d1f6044701d97e94dc11157259e8811977be",
+        "html_url": "https://github.com/SnapKit/SnapKit/commit/07c5d1f6044701d97e94dc11157259e8811977be",
+        "comments_url": "https://api.github.com/repos/SnapKit/SnapKit/commits/07c5d1f6044701d97e94dc11157259e8811977be/comments",
+        "author": null,
+        "committer": null,
+        "parents": [
+            {
+                "sha": "eb07a3adf535ec6e87d450453471f69c053a48f1",
+                "url": "https://api.github.com/repos/SnapKit/SnapKit/commits/eb07a3adf535ec6e87d450453471f69c053a48f1",
+                "html_url": "https://github.com/SnapKit/SnapKit/commit/eb07a3adf535ec6e87d450453471f69c053a48f1"
+            },
+            {
+                "sha": "f222cbdf325885926566172f6f5f06af95473158",
+                "url": "https://api.github.com/repos/SnapKit/SnapKit/commits/f222cbdf325885926566172f6f5f06af95473158",
+                "html_url": "https://github.com/SnapKit/SnapKit/commit/f222cbdf325885926566172f6f5f06af95473158"
+            }
+        ]
+    },
+    {
+        "sha": "f222cbdf325885926566172f6f5f06af95473158",
+        "node_id": "C_kwDOATlxY9oAKGYyMjJjYmRmMzI1ODg1OTI2NTY2MTcyZjZmNWYwNmFmOTU0NzMxNTg",
+        "commit": {
+            "author": {
+                "name": "Robert Payne",
+                "email": "robertpayne@me.com",
+                "date": "2022-04-13T04:19:00Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2022-04-13T04:19:00Z"
+            },
+            "message": "Fix podspec tagged version (#748)\n\nCo-authored-by: Robert Payne <robertjpayne@Roberts-MacBook-Pro.local>",
+            "tree": {
+                "sha": "e867250d3f9e44fa25a2c99a026758c632b37c3a",
+                "url": "https://api.github.com/repos/SnapKit/SnapKit/git/trees/e867250d3f9e44fa25a2c99a026758c632b37c3a"
+            },
+            "url": "https://api.github.com/repos/SnapKit/SnapKit/git/commits/f222cbdf325885926566172f6f5f06af95473158",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJiVk80CRBK7hj4Ov3rIwAAjGAIAJfVN0pp3R1kGEbuVKpI5aSK\nDnlzgm64LhZTO+v79TZzbAqAN0tg3wF/eYBvdyDyVPKZkDDJnsyJMFKb6xXLPeD6\nM0p97rUDegzJya6CIxUOT/dlpT09d868uq2kJrMxDMUMztWJjV3VYH8omNk4EBof\ncsqlZn8NiKWcduucBUbKoaJs2EfrABd4xwYmX8ieVAnGvjvd2D3b0JaZ3n5Qnnpl\nXyNMX3GtZkrkzYJcoDyIfc/MxCkRLS8izXeJM6xkZI1JV8lcvNK5vH0HL9bgBNZ6\nZUnc+CK9LxgKNlRsqLnpfcCSqbtmYNSRxJoNnjTGUOMe3Q6HSbxjm8rfCeSSI1E=\n=ABBE\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree e867250d3f9e44fa25a2c99a026758c632b37c3a\nparent 48b703a1a3d3721ba25b57e82235e7ddd63eda98\nauthor Robert Payne <robertpayne@me.com> 1649823540 +1200\ncommitter GitHub <noreply@github.com> 1649823540 +1200\n\nFix podspec tagged version (#748)\n\nCo-authored-by: Robert Payne <robertjpayne@Roberts-MacBook-Pro.local>"
+            }
+        },
+        "url": "https://api.github.com/repos/SnapKit/SnapKit/commits/f222cbdf325885926566172f6f5f06af95473158",
+        "html_url": "https://github.com/SnapKit/SnapKit/commit/f222cbdf325885926566172f6f5f06af95473158",
+        "comments_url": "https://api.github.com/repos/SnapKit/SnapKit/commits/f222cbdf325885926566172f6f5f06af95473158/comments",
+        "author": {
+            "login": "robertjpayne",
+            "id": 214288,
+            "node_id": "MDQ6VXNlcjIxNDI4OA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/214288?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/robertjpayne",
+            "html_url": "https://github.com/robertjpayne",
+            "followers_url": "https://api.github.com/users/robertjpayne/followers",
+            "following_url": "https://api.github.com/users/robertjpayne/following{/other_user}",
+            "gists_url": "https://api.github.com/users/robertjpayne/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/robertjpayne/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/robertjpayne/subscriptions",
+            "organizations_url": "https://api.github.com/users/robertjpayne/orgs",
+            "repos_url": "https://api.github.com/users/robertjpayne/repos",
+            "events_url": "https://api.github.com/users/robertjpayne/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/robertjpayne/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "48b703a1a3d3721ba25b57e82235e7ddd63eda98",
+                "url": "https://api.github.com/repos/SnapKit/SnapKit/commits/48b703a1a3d3721ba25b57e82235e7ddd63eda98",
+                "html_url": "https://github.com/SnapKit/SnapKit/commit/48b703a1a3d3721ba25b57e82235e7ddd63eda98"
+            }
+        ]
+    },
+    {
+        "sha": "48b703a1a3d3721ba25b57e82235e7ddd63eda98",
+        "node_id": "C_kwDOATlxY9oAKDQ4YjcwM2ExYTNkMzcyMWJhMjViNTdlODIyMzVlN2RkZDYzZWRhOTg",
+        "commit": {
+            "author": {
+                "name": "Robert Payne",
+                "email": "robertpayne@me.com",
+                "date": "2022-04-13T04:12:28Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2022-04-13T04:12:28Z"
+            },
+            "message": "Fix podspec versions (#747)\n\nCo-authored-by: Robert Payne <robertjpayne@Roberts-MacBook-Pro.local>",
+            "tree": {
+                "sha": "a5e38f97caa8b6bd218fdf2affd196ddcd4c30a0",
+                "url": "https://api.github.com/repos/SnapKit/SnapKit/git/trees/a5e38f97caa8b6bd218fdf2affd196ddcd4c30a0"
+            },
+            "url": "https://api.github.com/repos/SnapKit/SnapKit/git/commits/48b703a1a3d3721ba25b57e82235e7ddd63eda98",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJiVk2sCRBK7hj4Ov3rIwAAL+AIABa7cC8Bip6xtiE/wCHbt59I\nvf7ZqjA4n2BUenDdyN57Nevd0cDZAXuxaQJsAAiykbwZQsy3Z7tzntdmOWDulGKO\nK/uEhkmebaqT2I+51axRSuOHId4LVgrGFeBKclHjpBo7OeffzmFi72pd8mGdHW8d\n+eYPM82aC8bpphoo4A54rT0cExt10kQ0zc7rxsWHqVQ+ZeO2pr0T2yGiehH95tVj\nZHeU87HqkAnoiKU2MrFlvO+zNm9YGcWBUnpMIwDAo5uQ59ORzzyItsm0sS+CzsMM\n37nrt4C19fk4f95ILSVa5oXUqZIC1PnYmxeNmY4/mX7RY+bmSN8SeL0GKIwvBCM=\n=Dz0/\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree a5e38f97caa8b6bd218fdf2affd196ddcd4c30a0\nparent 851bbf8dd838b31d5d64a659956a322be7a96eaa\nauthor Robert Payne <robertpayne@me.com> 1649823148 +1200\ncommitter GitHub <noreply@github.com> 1649823148 +1200\n\nFix podspec versions (#747)\n\nCo-authored-by: Robert Payne <robertjpayne@Roberts-MacBook-Pro.local>"
+            }
+        },
+        "url": "https://api.github.com/repos/SnapKit/SnapKit/commits/48b703a1a3d3721ba25b57e82235e7ddd63eda98",
+        "html_url": "https://github.com/SnapKit/SnapKit/commit/48b703a1a3d3721ba25b57e82235e7ddd63eda98",
+        "comments_url": "https://api.github.com/repos/SnapKit/SnapKit/commits/48b703a1a3d3721ba25b57e82235e7ddd63eda98/comments",
+        "author": {
+            "login": "robertjpayne",
+            "id": 214288,
+            "node_id": "MDQ6VXNlcjIxNDI4OA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/214288?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/robertjpayne",
+            "html_url": "https://github.com/robertjpayne",
+            "followers_url": "https://api.github.com/users/robertjpayne/followers",
+            "following_url": "https://api.github.com/users/robertjpayne/following{/other_user}",
+            "gists_url": "https://api.github.com/users/robertjpayne/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/robertjpayne/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/robertjpayne/subscriptions",
+            "organizations_url": "https://api.github.com/users/robertjpayne/orgs",
+            "repos_url": "https://api.github.com/users/robertjpayne/repos",
+            "events_url": "https://api.github.com/users/robertjpayne/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/robertjpayne/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "851bbf8dd838b31d5d64a659956a322be7a96eaa",
+                "url": "https://api.github.com/repos/SnapKit/SnapKit/commits/851bbf8dd838b31d5d64a659956a322be7a96eaa",
+                "html_url": "https://github.com/SnapKit/SnapKit/commit/851bbf8dd838b31d5d64a659956a322be7a96eaa"
+            }
+        ]
+    },
+    {
+        "sha": "851bbf8dd838b31d5d64a659956a322be7a96eaa",
+        "node_id": "C_kwDOATlxY9oAKDg1MWJiZjhkZDgzOGIzMWQ1ZDY0YTY1OTk1NmEzMjJiZTdhOTZlYWE",
+        "commit": {
+            "author": {
+                "name": "Robert Payne",
+                "email": "robertpayne@me.com",
+                "date": "2022-04-13T04:06:06Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2022-04-13T04:06:06Z"
+            },
+            "message": "Feature/release 5.6 (#746)\n\n* Add support for UILayoutPriority as priority target. (#466)\r\n\r\n* Add support for UILayoutPriority as priority target.\r\n\r\n* Fixed for tvOS\r\n\r\n* Add update(priority: ConstraintPriority) method (#467)\r\n\r\n* Add update(priority: ConstraintPriority) method\r\n\r\n* Fix copy-paste error\r\n\r\n* Add Swift Package Manager support (#501)\r\n\r\n* Swift4.2 (#516)\r\n\r\n* make ConstraintAttributes conform to ExpressibleByIntegerLiteral (#520)\r\n\r\n* Adds 'constraint.isActive = bool' to Constraint (#496)\r\n\r\n* delegate identical 'constraint creation' code to 'prepareConstraints'\r\n\r\n* adds 'set(isActivated:)' method to call appropriate 'activate/deactivate' based on bool\r\n\r\ncleans up about 30 lines of\r\n\r\n    if foo { activate }\r\n    else { deactivate }\r\n\r\ncode in my app\r\n\r\n* instead of 'set(isActivated:)', use 'isActive = value'\r\n\r\n* Add swift version to podspec\r\n\r\n* Update podspec\r\n\r\n* Update podspec\r\n\r\n* Update project to get rid of Migration Warning (#547)\r\n\r\n* Update Swift Language version to 4.2 under build settings (#551)\r\n\r\n* Update swift language version to 4.2 in build settings\r\n\r\n* Update podspec\r\n\r\n* Remove Swift Version file\r\n\r\n* Remove Package.swift, SnapKit is not SwiftPM compatible anyways\r\n\r\n* Update Podspec\r\n\r\n* Update version in Podspec\r\n\r\n* Support swift 5.0 (#570)\r\n\r\n* Update swift version 5.0\r\n\r\n* Remove needless access control\r\n\r\n* Fix misused \"Available\" annotations\r\n\r\n* Support @unknown default\r\n\r\n* Support swift 5.0 in test code\r\n\r\n* Update podspec\r\n\r\n* Update travis CI\r\n\r\n* Code review by @freak4pc\r\n\r\n* Add constraint for Swift version\r\n\r\n* Fix build failed\r\n\r\n* [EXC_BAD_ACCESS] Update LayoutConstraint == operator to support iOS 10 and higher changes (#574)\r\n\r\n* @sashabelonogov Update LayoutConstraint == operator to support iOS 10 and higher changes\r\n\r\n* Simplify return statement of the LayoutConstraint == operator\r\n\r\n* Fix incorrect behavior of inset with center and baseline anchors (#569)\r\n\r\n* Fix insets adjusting center attributes incorrectly\r\n\r\n* Fix insets adjusting baseline attributes incorrectly\r\n\r\n* Add back Package.swift for SwiftPM compatibility (#559)\r\n\r\nreverts 477fffae4c37386285f78511ff4120f1f5324ff8\r\n\r\n* Update podspec\r\n\r\n* Update min target versions\r\n\r\n* Update min target versions\r\n\r\n* Update README.md\r\n\r\n* Update README.md\r\n\r\n* Revert \"[EXC_BAD_ACCESS] Update LayoutConstraint == operator to support iOS 10 and higher changes (#574)\" (#593)\r\n\r\nThis reverts commit bc2b0b93320513eb747b3baf6332c05bacc067b4.\r\n\r\n* Update Podspec\r\n\r\n* Bump min version requirements\r\n\r\n* Fix layout constraint comparison\r\n\r\n* Fix equality check for iOS\r\n\r\n* Adds support for NSDirectionalEdgeInsets as an inset constant (#594)\r\n\r\n* Make ConstraintViewDSL content priorities nonmutating (#586)\r\n\r\n* Adds two new compositions \u2013\u00a0DirectionalEdges and DirectionalMargins (#595)\r\n\r\n* WIP\r\n\r\n* Add directional margins\r\n\r\n* Whitespace\r\n\r\n* Add Playground Sample (#608)\r\n\r\n* added updates to Package.swift so it can be imported with Xcode 11 (#615)\r\n\r\n* Revert #574\r\n\r\n* Update Podspec\r\n\r\n* Add background color to quick start box in README.md (#619)\r\n\r\n* add-dimensional-edges: add ConstraintItems horizontalEdges, verticalEdges, directionalHorizontalEdges and directionalVerticalEdges as convenience items to express left+right, top+bottom or leading+trailing (#637)\r\n\r\n* Update deprecations to allow Xcode to auto-fixup. (#634)\r\n\r\n* Migrate to Xcode 11 and updated travis.yml (#629)\r\n\r\n* Migrate to Xcode 11 and updated travis.yml\r\n\r\n* Travis to support Xcode 11\r\n\r\n* project.pbxproj: Update to recommended settings. (#627)\r\n\r\n* Add test assert to unit test testCanSetLabel. (#625)\r\n\r\n* Add back support for OS X 10.11 (#645)\r\n\r\n* Use << for ConstraintAttributes options (#659)\r\n\r\n* Use << for ConstraintAttributes options\r\n\r\n* iPhone 6s is not supported by the latest Xcode\r\n\r\n* Add method getting constraint with closure to ConstraintMakerRelatable (#663)\r\n\r\n* add ConstraintMakerRelatable extension\r\n\r\n* fix fatalError message\r\n\r\nCo-authored-by: Jimi <jimi-hpcnt@hpcnt.com>\r\n\r\n* Xcode 12 and SwiftPM enhancements\r\n\r\n* Update README to include SPM installation notes (#673)\r\n\r\n* Fix typo\r\n\r\n* Remove duplicate file\r\n\r\n* xcodeproject configuration enhancement for localization (#584)\r\n\r\nCo-authored-by: AmrAngry <c_amr.elghadban@smartdubai.ae>\r\n\r\n* Updates to project files\r\n\r\n* Dynamic Product (#710)\r\n\r\nThis PR adds a dynamic product to SnapKit.\r\nHaving a dynamic product is important in modular project structures; multiple packages may be using SnapKit, and this allows that support without the end-user have to wrap SnapKit in their own package that exposes it and using that package in lieu of SnapKit.\r\n\r\n* Fix warning about `class` (#714)\r\n\r\n* Added Example-iOS.xcdodeproj and fixed examples (#707)\r\n\r\n* Update README.md, add missing Migration Guides section (#721)\r\n\r\n* Make ConstraintMaker.item public (#693)\r\n\r\n* Typo source directory in Podspec (#738)\r\n\r\nSource directory has been renamed in 18608ead653bfe1e05e3d1f6fb6d34f62cec49bd\r\n\r\n* Release 5.6\r\n\r\n* Update urls in readme\r\n* Update podspec version\r\n\r\nCo-authored-by: Benjamin Chrobot <benjamin.blair.chrobot@gmail.com>\r\nCo-authored-by: Linus Unneb\u00e4ck <linus@folkdatorn.se>\r\nCo-authored-by: Mauro Vime Castillo <mvimeapps@gmail.com>\r\nCo-authored-by: o(\uffe3\u3078\uffe3)o <guzhenhuaGitHub@users.noreply.github.com>\r\nCo-authored-by: Colin T.A. Gray <colinta@gmail.com>\r\nCo-authored-by: Shai Mishali <freak4pc@gmail.com>\r\nCo-authored-by: Ibrahim Koteish <ikteish@yahoo.com>\r\nCo-authored-by: Jungwon An <kawoou@kawoou.kr>\r\nCo-authored-by: Alexander Belonogov <sashabelonogov@gmail.com>\r\nCo-authored-by: Christian Schnorr <christian.schnorr@me.com>\r\nCo-authored-by: Josh Converse <josh.converse@gmail.com>\r\nCo-authored-by: Vitalii Budnik <nekrich@users.noreply.github.com>\r\nCo-authored-by: Shiva Huang <shiva.tw@gmail.com>\r\nCo-authored-by: Max Cobb <5754073+maxxfrazer@users.noreply.github.com>\r\nCo-authored-by: Liam Elmore <32336260+iosmo@users.noreply.github.com>\r\nCo-authored-by: Sven Driemecker <sven.dr@gmx.de>\r\nCo-authored-by: Alex Simpson <alexandersimpson94@gmail.com>\r\nCo-authored-by: pushp1989 <54930194+pushp1989@users.noreply.github.com>\r\nCo-authored-by: Ben Yohay <ben@lightricks.com>\r\nCo-authored-by: Natascha Fadeeva <nataschafadeeva@aol.de>\r\nCo-authored-by: Wang, Chi <patr0nus@users.noreply.github.com>\r\nCo-authored-by: Roman Podymov <podymfrombryansk@yandex.ru>\r\nCo-authored-by: wotjd <wotjd971102@gmail.com>\r\nCo-authored-by: Jimi <jimi-hpcnt@hpcnt.com>\r\nCo-authored-by: Samuel Eshun <samueleshun15@gmail.com>\r\nCo-authored-by: Amr Elghadban <amr.elghadban@gmail.com>\r\nCo-authored-by: AmrAngry <c_amr.elghadban@smartdubai.ae>\r\nCo-authored-by: Hesham Salman <iron-ham@github.com>\r\nCo-authored-by: Mr. Ming <minglq.9@gmail.com>\r\nCo-authored-by: Teameh <tiemevanveen@hotmail.com>\r\nCo-authored-by: Josip Rezi\u0107 <josip.rezic@hotmail.com>\r\nCo-authored-by: Rhett Tuan <devindwan@gmail.com>\r\nCo-authored-by: Damien Debin <ddebin@users.noreply.github.com>\r\nCo-authored-by: Robert Payne <robertjpayne@Roberts-MacBook-Pro.local>",
+            "tree": {
+                "sha": "5aca58c1f0ce53eb614a45d5b910f550b974aec9",
+                "url": "https://api.github.com/repos/SnapKit/SnapKit/git/trees/5aca58c1f0ce53eb614a45d5b910f550b974aec9"
+            },
+            "url": "https://api.github.com/repos/SnapKit/SnapKit/git/commits/851bbf8dd838b31d5d64a659956a322be7a96eaa",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJiVkwuCRBK7hj4Ov3rIwAAT9IIAEgciitPvtvecPIyKpfNjoev\nteBPhCdgG4BUEA2xmLbpCiK4LAAo47D65iCp0sq4V4x9FNf7rlnAYsg+OzCzW98r\n4E0W97OoNonnJqIQ+rF0CcKm1A7+1YY6JJqZoDO76RB7CfHE+MNq1lPijtew4xl8\nHVaQ+hGds3QLiwvJu7GdoOzolHA+2L0jv4RisXPbVyd3ZA9ZQIon0Hy+wojQQm7A\nRi4/0E59Ya1pq6cELroBDr5k3NyX6jBx9cZrP5SQ5zLj6gFDRTx9DEPEpk0dFQmn\nyDZWOvIJcUUbn18PmJz0sPZiYBDgvM23JAoyBHgoBfzahCrJneflFQa/PJicqc4=\n=42iL\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree 5aca58c1f0ce53eb614a45d5b910f550b974aec9\nparent d4cb974b3e776da3935933af5d2d76992266d35c\nauthor Robert Payne <robertpayne@me.com> 1649822766 +1200\ncommitter GitHub <noreply@github.com> 1649822766 +1200\n\nFeature/release 5.6 (#746)\n\n* Add support for UILayoutPriority as priority target. (#466)\r\n\r\n* Add support for UILayoutPriority as priority target.\r\n\r\n* Fixed for tvOS\r\n\r\n* Add update(priority: ConstraintPriority) method (#467)\r\n\r\n* Add update(priority: ConstraintPriority) method\r\n\r\n* Fix copy-paste error\r\n\r\n* Add Swift Package Manager support (#501)\r\n\r\n* Swift4.2 (#516)\r\n\r\n* make ConstraintAttributes conform to ExpressibleByIntegerLiteral (#520)\r\n\r\n* Adds 'constraint.isActive = bool' to Constraint (#496)\r\n\r\n* delegate identical 'constraint creation' code to 'prepareConstraints'\r\n\r\n* adds 'set(isActivated:)' method to call appropriate 'activate/deactivate' based on bool\r\n\r\ncleans up about 30 lines of\r\n\r\n    if foo { activate }\r\n    else { deactivate }\r\n\r\ncode in my app\r\n\r\n* instead of 'set(isActivated:)', use 'isActive = value'\r\n\r\n* Add swift version to podspec\r\n\r\n* Update podspec\r\n\r\n* Update podspec\r\n\r\n* Update project to get rid of Migration Warning (#547)\r\n\r\n* Update Swift Language version to 4.2 under build settings (#551)\r\n\r\n* Update swift language version to 4.2 in build settings\r\n\r\n* Update podspec\r\n\r\n* Remove Swift Version file\r\n\r\n* Remove Package.swift, SnapKit is not SwiftPM compatible anyways\r\n\r\n* Update Podspec\r\n\r\n* Update version in Podspec\r\n\r\n* Support swift 5.0 (#570)\r\n\r\n* Update swift version 5.0\r\n\r\n* Remove needless access control\r\n\r\n* Fix misused \"Available\" annotations\r\n\r\n* Support @unknown default\r\n\r\n* Support swift 5.0 in test code\r\n\r\n* Update podspec\r\n\r\n* Update travis CI\r\n\r\n* Code review by @freak4pc\r\n\r\n* Add constraint for Swift version\r\n\r\n* Fix build failed\r\n\r\n* [EXC_BAD_ACCESS] Update LayoutConstraint == operator to support iOS 10 and higher changes (#574)\r\n\r\n* @sashabelonogov Update LayoutConstraint == operator to support iOS 10 and higher changes\r\n\r\n* Simplify return statement of the LayoutConstraint == operator\r\n\r\n* Fix incorrect behavior of inset with center and baseline anchors (#569)\r\n\r\n* Fix insets adjusting center attributes incorrectly\r\n\r\n* Fix insets adjusting baseline attributes incorrectly\r\n\r\n* Add back Package.swift for SwiftPM compatibility (#559)\r\n\r\nreverts 477fffae4c37386285f78511ff4120f1f5324ff8\r\n\r\n* Update podspec\r\n\r\n* Update min target versions\r\n\r\n* Update min target versions\r\n\r\n* Update README.md\r\n\r\n* Update README.md\r\n\r\n* Revert \"[EXC_BAD_ACCESS] Update LayoutConstraint == operator to support iOS 10 and higher changes (#574)\" (#593)\r\n\r\nThis reverts commit bc2b0b93320513eb747b3baf6332c05bacc067b4.\r\n\r\n* Update Podspec\r\n\r\n* Bump min version requirements\r\n\r\n* Fix layout constraint comparison\r\n\r\n* Fix equality check for iOS\r\n\r\n* Adds support for NSDirectionalEdgeInsets as an inset constant (#594)\r\n\r\n* Make ConstraintViewDSL content priorities nonmutating (#586)\r\n\r\n* Adds two new compositions \u2013\u00a0DirectionalEdges and DirectionalMargins (#595)\r\n\r\n* WIP\r\n\r\n* Add directional margins\r\n\r\n* Whitespace\r\n\r\n* Add Playground Sample (#608)\r\n\r\n* added updates to Package.swift so it can be imported with Xcode 11 (#615)\r\n\r\n* Revert #574\r\n\r\n* Update Podspec\r\n\r\n* Add background color to quick start box in README.md (#619)\r\n\r\n* add-dimensional-edges: add ConstraintItems horizontalEdges, verticalEdges, directionalHorizontalEdges and directionalVerticalEdges as convenience items to express left+right, top+bottom or leading+trailing (#637)\r\n\r\n* Update deprecations to allow Xcode to auto-fixup. (#634)\r\n\r\n* Migrate to Xcode 11 and updated travis.yml (#629)\r\n\r\n* Migrate to Xcode 11 and updated travis.yml\r\n\r\n* Travis to support Xcode 11\r\n\r\n* project.pbxproj: Update to recommended settings. (#627)\r\n\r\n* Add test assert to unit test testCanSetLabel. (#625)\r\n\r\n* Add back support for OS X 10.11 (#645)\r\n\r\n* Use << for ConstraintAttributes options (#659)\r\n\r\n* Use << for ConstraintAttributes options\r\n\r\n* iPhone 6s is not supported by the latest Xcode\r\n\r\n* Add method getting constraint with closure to ConstraintMakerRelatable (#663)\r\n\r\n* add ConstraintMakerRelatable extension\r\n\r\n* fix fatalError message\r\n\r\nCo-authored-by: Jimi <jimi-hpcnt@hpcnt.com>\r\n\r\n* Xcode 12 and SwiftPM enhancements\r\n\r\n* Update README to include SPM installation notes (#673)\r\n\r\n* Fix typo\r\n\r\n* Remove duplicate file\r\n\r\n* xcodeproject configuration enhancement for localization (#584)\r\n\r\nCo-authored-by: AmrAngry <c_amr.elghadban@smartdubai.ae>\r\n\r\n* Updates to project files\r\n\r\n* Dynamic Product (#710)\r\n\r\nThis PR adds a dynamic product to SnapKit.\r\nHaving a dynamic product is important in modular project structures; multiple packages may be using SnapKit, and this allows that support without the end-user have to wrap SnapKit in their own package that exposes it and using that package in lieu of SnapKit.\r\n\r\n* Fix warning about `class` (#714)\r\n\r\n* Added Example-iOS.xcdodeproj and fixed examples (#707)\r\n\r\n* Update README.md, add missing Migration Guides section (#721)\r\n\r\n* Make ConstraintMaker.item public (#693)\r\n\r\n* Typo source directory in Podspec (#738)\r\n\r\nSource directory has been renamed in 18608ead653bfe1e05e3d1f6fb6d34f62cec49bd\r\n\r\n* Release 5.6\r\n\r\n* Update urls in readme\r\n* Update podspec version\r\n\r\nCo-authored-by: Benjamin Chrobot <benjamin.blair.chrobot@gmail.com>\r\nCo-authored-by: Linus Unneb\u00e4ck <linus@folkdatorn.se>\r\nCo-authored-by: Mauro Vime Castillo <mvimeapps@gmail.com>\r\nCo-authored-by: o(\uffe3\u3078\uffe3)o <guzhenhuaGitHub@users.noreply.github.com>\r\nCo-authored-by: Colin T.A. Gray <colinta@gmail.com>\r\nCo-authored-by: Shai Mishali <freak4pc@gmail.com>\r\nCo-authored-by: Ibrahim Koteish <ikteish@yahoo.com>\r\nCo-authored-by: Jungwon An <kawoou@kawoou.kr>\r\nCo-authored-by: Alexander Belonogov <sashabelonogov@gmail.com>\r\nCo-authored-by: Christian Schnorr <christian.schnorr@me.com>\r\nCo-authored-by: Josh Converse <josh.converse@gmail.com>\r\nCo-authored-by: Vitalii Budnik <nekrich@users.noreply.github.com>\r\nCo-authored-by: Shiva Huang <shiva.tw@gmail.com>\r\nCo-authored-by: Max Cobb <5754073+maxxfrazer@users.noreply.github.com>\r\nCo-authored-by: Liam Elmore <32336260+iosmo@users.noreply.github.com>\r\nCo-authored-by: Sven Driemecker <sven.dr@gmx.de>\r\nCo-authored-by: Alex Simpson <alexandersimpson94@gmail.com>\r\nCo-authored-by: pushp1989 <54930194+pushp1989@users.noreply.github.com>\r\nCo-authored-by: Ben Yohay <ben@lightricks.com>\r\nCo-authored-by: Natascha Fadeeva <nataschafadeeva@aol.de>\r\nCo-authored-by: Wang, Chi <patr0nus@users.noreply.github.com>\r\nCo-authored-by: Roman Podymov <podymfrombryansk@yandex.ru>\r\nCo-authored-by: wotjd <wotjd971102@gmail.com>\r\nCo-authored-by: Jimi <jimi-hpcnt@hpcnt.com>\r\nCo-authored-by: Samuel Eshun <samueleshun15@gmail.com>\r\nCo-authored-by: Amr Elghadban <amr.elghadban@gmail.com>\r\nCo-authored-by: AmrAngry <c_amr.elghadban@smartdubai.ae>\r\nCo-authored-by: Hesham Salman <iron-ham@github.com>\r\nCo-authored-by: Mr. Ming <minglq.9@gmail.com>\r\nCo-authored-by: Teameh <tiemevanveen@hotmail.com>\r\nCo-authored-by: Josip Rezi\u0107 <josip.rezic@hotmail.com>\r\nCo-authored-by: Rhett Tuan <devindwan@gmail.com>\r\nCo-authored-by: Damien Debin <ddebin@users.noreply.github.com>\r\nCo-authored-by: Robert Payne <robertjpayne@Roberts-MacBook-Pro.local>"
+            }
+        },
+        "url": "https://api.github.com/repos/SnapKit/SnapKit/commits/851bbf8dd838b31d5d64a659956a322be7a96eaa",
+        "html_url": "https://github.com/SnapKit/SnapKit/commit/851bbf8dd838b31d5d64a659956a322be7a96eaa",
+        "comments_url": "https://api.github.com/repos/SnapKit/SnapKit/commits/851bbf8dd838b31d5d64a659956a322be7a96eaa/comments",
+        "author": {
+            "login": "robertjpayne",
+            "id": 214288,
+            "node_id": "MDQ6VXNlcjIxNDI4OA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/214288?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/robertjpayne",
+            "html_url": "https://github.com/robertjpayne",
+            "followers_url": "https://api.github.com/users/robertjpayne/followers",
+            "following_url": "https://api.github.com/users/robertjpayne/following{/other_user}",
+            "gists_url": "https://api.github.com/users/robertjpayne/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/robertjpayne/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/robertjpayne/subscriptions",
+            "organizations_url": "https://api.github.com/users/robertjpayne/orgs",
+            "repos_url": "https://api.github.com/users/robertjpayne/repos",
+            "events_url": "https://api.github.com/users/robertjpayne/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/robertjpayne/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "d4cb974b3e776da3935933af5d2d76992266d35c",
+                "url": "https://api.github.com/repos/SnapKit/SnapKit/commits/d4cb974b3e776da3935933af5d2d76992266d35c",
+                "html_url": "https://github.com/SnapKit/SnapKit/commit/d4cb974b3e776da3935933af5d2d76992266d35c"
+            }
+        ]
+    },
+    {
         "sha": "eb07a3adf535ec6e87d450453471f69c053a48f1",
         "node_id": "C_kwDOATlxY9oAKGViMDdhM2FkZjUzNWVjNmU4N2Q0NTA0NTM0NzFmNjljMDUzYTQ4ZjE",
         "commit": {
@@ -944,6 +1227,85 @@
                 "sha": "4cac0e9ac1874de8b2062ecb8cb5b31a6e1543e5",
                 "url": "https://api.github.com/repos/SnapKit/SnapKit/commits/4cac0e9ac1874de8b2062ecb8cb5b31a6e1543e5",
                 "html_url": "https://github.com/SnapKit/SnapKit/commit/4cac0e9ac1874de8b2062ecb8cb5b31a6e1543e5"
+            }
+        ]
+    },
+    {
+        "sha": "d4cb974b3e776da3935933af5d2d76992266d35c",
+        "node_id": "MDY6Q29tbWl0MjA1NDE3OTU6ZDRjYjk3NGIzZTc3NmRhMzkzNTkzM2FmNWQyZDc2OTkyMjY2ZDM1Yw==",
+        "commit": {
+            "author": {
+                "name": "Steve Dao",
+                "email": "daoduyquang91@gmail.com",
+                "date": "2020-07-07T22:58:01Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2020-07-07T22:58:01Z"
+            },
+            "message": "Updated DYLIB_COMPATIBILITY_VERSION & DYLIB_CURRENT_VERSION (#646)\n\n* Fixed carthage DYLIB_COMPATIBILITY_VERSION\r\n\r\n* updated DYLIB_CURRENT_VERSION",
+            "tree": {
+                "sha": "d865061e3a3f66a503ca11226777e348ffeddc9f",
+                "url": "https://api.github.com/repos/SnapKit/SnapKit/git/trees/d865061e3a3f66a503ca11226777e348ffeddc9f"
+            },
+            "url": "https://api.github.com/repos/SnapKit/SnapKit/git/commits/d4cb974b3e776da3935933af5d2d76992266d35c",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJfBP35CRBK7hj4Ov3rIwAAdHIIACwCLrOIf5NqBHrRxpVPlEjR\niuCBGg/6o2W44sCa4RQK6M/qOx/yKTt+FK2fZaZU7yfn9b/Dlvvvneflly22a0WO\nAvUfmY5NtVXbDS9+nzp+VQd473WYZ/ZVAWxLFPtYIC32yjW8EgooSZWV2haHg2O1\nFOBNS9lxAQKe7Tfm0quQ66b0ggzpGbUK3QPJGpESXy27aH3Ra/TFq3a7Ici3tiho\ncv42+uCgigZGv4VxFmjXYTf4jawNUKpsaG4SozRUZk5Bm8X7EIp+l445+CevcrRx\nzsCk8XiZ9MCO3lsxhvnGPW7CWICjB2snd+GZAdFOMIXByt19XRfxhb/pVXrp3QY=\n=/9Cf\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree d865061e3a3f66a503ca11226777e348ffeddc9f\nparent c0f66e42be339f27e727da022518af362cca409b\nauthor Steve Dao <daoduyquang91@gmail.com> 1594162681 +0800\ncommitter GitHub <noreply@github.com> 1594162681 +1200\n\nUpdated DYLIB_COMPATIBILITY_VERSION & DYLIB_CURRENT_VERSION (#646)\n\n* Fixed carthage DYLIB_COMPATIBILITY_VERSION\r\n\r\n* updated DYLIB_CURRENT_VERSION"
+            }
+        },
+        "url": "https://api.github.com/repos/SnapKit/SnapKit/commits/d4cb974b3e776da3935933af5d2d76992266d35c",
+        "html_url": "https://github.com/SnapKit/SnapKit/commit/d4cb974b3e776da3935933af5d2d76992266d35c",
+        "comments_url": "https://api.github.com/repos/SnapKit/SnapKit/commits/d4cb974b3e776da3935933af5d2d76992266d35c/comments",
+        "author": {
+            "login": "duyquang91",
+            "id": 15357300,
+            "node_id": "MDQ6VXNlcjE1MzU3MzAw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/15357300?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/duyquang91",
+            "html_url": "https://github.com/duyquang91",
+            "followers_url": "https://api.github.com/users/duyquang91/followers",
+            "following_url": "https://api.github.com/users/duyquang91/following{/other_user}",
+            "gists_url": "https://api.github.com/users/duyquang91/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/duyquang91/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/duyquang91/subscriptions",
+            "organizations_url": "https://api.github.com/users/duyquang91/orgs",
+            "repos_url": "https://api.github.com/users/duyquang91/repos",
+            "events_url": "https://api.github.com/users/duyquang91/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/duyquang91/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "c0f66e42be339f27e727da022518af362cca409b",
+                "url": "https://api.github.com/repos/SnapKit/SnapKit/commits/c0f66e42be339f27e727da022518af362cca409b",
+                "html_url": "https://github.com/SnapKit/SnapKit/commit/c0f66e42be339f27e727da022518af362cca409b"
             }
         ]
     },
@@ -1976,401 +2338,6 @@
                 "sha": "df9df818dd2254f9f884f7bd814141c694f5a905",
                 "url": "https://api.github.com/repos/SnapKit/SnapKit/commits/df9df818dd2254f9f884f7bd814141c694f5a905",
                 "html_url": "https://github.com/SnapKit/SnapKit/commit/df9df818dd2254f9f884f7bd814141c694f5a905"
-            }
-        ]
-    },
-    {
-        "sha": "df9df818dd2254f9f884f7bd814141c694f5a905",
-        "node_id": "MDY6Q29tbWl0MjA1NDE3OTU6ZGY5ZGY4MThkZDIyNTRmOWY4ODRmN2JkODE0MTQxYzY5NGY1YTkwNQ==",
-        "commit": {
-            "author": {
-                "name": "Shiva Huang",
-                "email": "shiva.tw@gmail.com",
-                "date": "2019-08-05T05:16:46Z"
-            },
-            "committer": {
-                "name": "Robert Payne",
-                "email": "robertpayne@me.com",
-                "date": "2019-08-05T05:16:46Z"
-            },
-            "message": "Add Playground Sample (#608)",
-            "tree": {
-                "sha": "e924817fcc469ab98de4218c729ee74486b29c9b",
-                "url": "https://api.github.com/repos/SnapKit/SnapKit/git/trees/e924817fcc469ab98de4218c729ee74486b29c9b"
-            },
-            "url": "https://api.github.com/repos/SnapKit/SnapKit/git/commits/df9df818dd2254f9f884f7bd814141c694f5a905",
-            "comment_count": 0,
-            "verification": {
-                "verified": false,
-                "reason": "unsigned",
-                "signature": null,
-                "payload": null
-            }
-        },
-        "url": "https://api.github.com/repos/SnapKit/SnapKit/commits/df9df818dd2254f9f884f7bd814141c694f5a905",
-        "html_url": "https://github.com/SnapKit/SnapKit/commit/df9df818dd2254f9f884f7bd814141c694f5a905",
-        "comments_url": "https://api.github.com/repos/SnapKit/SnapKit/commits/df9df818dd2254f9f884f7bd814141c694f5a905/comments",
-        "author": {
-            "login": "ShivaHuang",
-            "id": 184441,
-            "node_id": "MDQ6VXNlcjE4NDQ0MQ==",
-            "avatar_url": "https://avatars.githubusercontent.com/u/184441?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/ShivaHuang",
-            "html_url": "https://github.com/ShivaHuang",
-            "followers_url": "https://api.github.com/users/ShivaHuang/followers",
-            "following_url": "https://api.github.com/users/ShivaHuang/following{/other_user}",
-            "gists_url": "https://api.github.com/users/ShivaHuang/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/ShivaHuang/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/ShivaHuang/subscriptions",
-            "organizations_url": "https://api.github.com/users/ShivaHuang/orgs",
-            "repos_url": "https://api.github.com/users/ShivaHuang/repos",
-            "events_url": "https://api.github.com/users/ShivaHuang/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/ShivaHuang/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "committer": {
-            "login": "robertjpayne",
-            "id": 214288,
-            "node_id": "MDQ6VXNlcjIxNDI4OA==",
-            "avatar_url": "https://avatars.githubusercontent.com/u/214288?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/robertjpayne",
-            "html_url": "https://github.com/robertjpayne",
-            "followers_url": "https://api.github.com/users/robertjpayne/followers",
-            "following_url": "https://api.github.com/users/robertjpayne/following{/other_user}",
-            "gists_url": "https://api.github.com/users/robertjpayne/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/robertjpayne/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/robertjpayne/subscriptions",
-            "organizations_url": "https://api.github.com/users/robertjpayne/orgs",
-            "repos_url": "https://api.github.com/users/robertjpayne/repos",
-            "events_url": "https://api.github.com/users/robertjpayne/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/robertjpayne/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "parents": [
-            {
-                "sha": "d482f59648e580a5d550a2e85bee04973c6df9ec",
-                "url": "https://api.github.com/repos/SnapKit/SnapKit/commits/d482f59648e580a5d550a2e85bee04973c6df9ec",
-                "html_url": "https://github.com/SnapKit/SnapKit/commit/d482f59648e580a5d550a2e85bee04973c6df9ec"
-            }
-        ]
-    },
-    {
-        "sha": "d482f59648e580a5d550a2e85bee04973c6df9ec",
-        "node_id": "MDY6Q29tbWl0MjA1NDE3OTU6ZDQ4MmY1OTY0OGU1ODBhNWQ1NTBhMmU4NWJlZTA0OTczYzZkZjllYw==",
-        "commit": {
-            "author": {
-                "name": "Josh Converse",
-                "email": "josh.converse@gmail.com",
-                "date": "2019-08-05T05:16:17Z"
-            },
-            "committer": {
-                "name": "Robert Payne",
-                "email": "robertpayne@me.com",
-                "date": "2019-08-05T05:16:17Z"
-            },
-            "message": "Adds two new compositions \u2013\u00a0DirectionalEdges and DirectionalMargins (#595)\n\n* WIP\r\n\r\n* Add directional margins\r\n\r\n* Whitespace",
-            "tree": {
-                "sha": "b1aedc778e94ee69f2d016e75aa8547b6ed501bd",
-                "url": "https://api.github.com/repos/SnapKit/SnapKit/git/trees/b1aedc778e94ee69f2d016e75aa8547b6ed501bd"
-            },
-            "url": "https://api.github.com/repos/SnapKit/SnapKit/git/commits/d482f59648e580a5d550a2e85bee04973c6df9ec",
-            "comment_count": 0,
-            "verification": {
-                "verified": false,
-                "reason": "unsigned",
-                "signature": null,
-                "payload": null
-            }
-        },
-        "url": "https://api.github.com/repos/SnapKit/SnapKit/commits/d482f59648e580a5d550a2e85bee04973c6df9ec",
-        "html_url": "https://github.com/SnapKit/SnapKit/commit/d482f59648e580a5d550a2e85bee04973c6df9ec",
-        "comments_url": "https://api.github.com/repos/SnapKit/SnapKit/commits/d482f59648e580a5d550a2e85bee04973c6df9ec/comments",
-        "author": {
-            "login": "jctrouble",
-            "id": 1136226,
-            "node_id": "MDQ6VXNlcjExMzYyMjY=",
-            "avatar_url": "https://avatars.githubusercontent.com/u/1136226?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/jctrouble",
-            "html_url": "https://github.com/jctrouble",
-            "followers_url": "https://api.github.com/users/jctrouble/followers",
-            "following_url": "https://api.github.com/users/jctrouble/following{/other_user}",
-            "gists_url": "https://api.github.com/users/jctrouble/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/jctrouble/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/jctrouble/subscriptions",
-            "organizations_url": "https://api.github.com/users/jctrouble/orgs",
-            "repos_url": "https://api.github.com/users/jctrouble/repos",
-            "events_url": "https://api.github.com/users/jctrouble/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/jctrouble/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "committer": {
-            "login": "robertjpayne",
-            "id": 214288,
-            "node_id": "MDQ6VXNlcjIxNDI4OA==",
-            "avatar_url": "https://avatars.githubusercontent.com/u/214288?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/robertjpayne",
-            "html_url": "https://github.com/robertjpayne",
-            "followers_url": "https://api.github.com/users/robertjpayne/followers",
-            "following_url": "https://api.github.com/users/robertjpayne/following{/other_user}",
-            "gists_url": "https://api.github.com/users/robertjpayne/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/robertjpayne/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/robertjpayne/subscriptions",
-            "organizations_url": "https://api.github.com/users/robertjpayne/orgs",
-            "repos_url": "https://api.github.com/users/robertjpayne/repos",
-            "events_url": "https://api.github.com/users/robertjpayne/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/robertjpayne/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "parents": [
-            {
-                "sha": "222e14ab374cfda30285cae6c1bb93a635f44526",
-                "url": "https://api.github.com/repos/SnapKit/SnapKit/commits/222e14ab374cfda30285cae6c1bb93a635f44526",
-                "html_url": "https://github.com/SnapKit/SnapKit/commit/222e14ab374cfda30285cae6c1bb93a635f44526"
-            }
-        ]
-    },
-    {
-        "sha": "222e14ab374cfda30285cae6c1bb93a635f44526",
-        "node_id": "MDY6Q29tbWl0MjA1NDE3OTU6MjIyZTE0YWIzNzRjZmRhMzAyODVjYWU2YzFiYjkzYTYzNWY0NDUyNg==",
-        "commit": {
-            "author": {
-                "name": "Vitalii Budnik",
-                "email": "nekrich@users.noreply.github.com",
-                "date": "2019-06-10T12:33:33Z"
-            },
-            "committer": {
-                "name": "Robert Payne",
-                "email": "robertpayne@me.com",
-                "date": "2019-06-10T12:33:33Z"
-            },
-            "message": "Make ConstraintViewDSL content priorities nonmutating (#586)",
-            "tree": {
-                "sha": "d2f4453719604aa9ec497f53dd787ef7e0462d00",
-                "url": "https://api.github.com/repos/SnapKit/SnapKit/git/trees/d2f4453719604aa9ec497f53dd787ef7e0462d00"
-            },
-            "url": "https://api.github.com/repos/SnapKit/SnapKit/git/commits/222e14ab374cfda30285cae6c1bb93a635f44526",
-            "comment_count": 0,
-            "verification": {
-                "verified": false,
-                "reason": "unsigned",
-                "signature": null,
-                "payload": null
-            }
-        },
-        "url": "https://api.github.com/repos/SnapKit/SnapKit/commits/222e14ab374cfda30285cae6c1bb93a635f44526",
-        "html_url": "https://github.com/SnapKit/SnapKit/commit/222e14ab374cfda30285cae6c1bb93a635f44526",
-        "comments_url": "https://api.github.com/repos/SnapKit/SnapKit/commits/222e14ab374cfda30285cae6c1bb93a635f44526/comments",
-        "author": {
-            "login": "nekrich",
-            "id": 3704581,
-            "node_id": "MDQ6VXNlcjM3MDQ1ODE=",
-            "avatar_url": "https://avatars.githubusercontent.com/u/3704581?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/nekrich",
-            "html_url": "https://github.com/nekrich",
-            "followers_url": "https://api.github.com/users/nekrich/followers",
-            "following_url": "https://api.github.com/users/nekrich/following{/other_user}",
-            "gists_url": "https://api.github.com/users/nekrich/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/nekrich/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/nekrich/subscriptions",
-            "organizations_url": "https://api.github.com/users/nekrich/orgs",
-            "repos_url": "https://api.github.com/users/nekrich/repos",
-            "events_url": "https://api.github.com/users/nekrich/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/nekrich/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "committer": {
-            "login": "robertjpayne",
-            "id": 214288,
-            "node_id": "MDQ6VXNlcjIxNDI4OA==",
-            "avatar_url": "https://avatars.githubusercontent.com/u/214288?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/robertjpayne",
-            "html_url": "https://github.com/robertjpayne",
-            "followers_url": "https://api.github.com/users/robertjpayne/followers",
-            "following_url": "https://api.github.com/users/robertjpayne/following{/other_user}",
-            "gists_url": "https://api.github.com/users/robertjpayne/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/robertjpayne/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/robertjpayne/subscriptions",
-            "organizations_url": "https://api.github.com/users/robertjpayne/orgs",
-            "repos_url": "https://api.github.com/users/robertjpayne/repos",
-            "events_url": "https://api.github.com/users/robertjpayne/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/robertjpayne/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "parents": [
-            {
-                "sha": "04e9c890aa4ccf82dbd1759cd7f53cb0eabe0c02",
-                "url": "https://api.github.com/repos/SnapKit/SnapKit/commits/04e9c890aa4ccf82dbd1759cd7f53cb0eabe0c02",
-                "html_url": "https://github.com/SnapKit/SnapKit/commit/04e9c890aa4ccf82dbd1759cd7f53cb0eabe0c02"
-            }
-        ]
-    },
-    {
-        "sha": "04e9c890aa4ccf82dbd1759cd7f53cb0eabe0c02",
-        "node_id": "MDY6Q29tbWl0MjA1NDE3OTU6MDRlOWM4OTBhYTRjY2Y4MmRiZDE3NTljZDdmNTNjYjBlYWJlMGMwMg==",
-        "commit": {
-            "author": {
-                "name": "Josh Converse",
-                "email": "josh.converse@gmail.com",
-                "date": "2019-06-10T12:32:33Z"
-            },
-            "committer": {
-                "name": "Robert Payne",
-                "email": "robertpayne@me.com",
-                "date": "2019-06-10T12:32:33Z"
-            },
-            "message": "Adds support for NSDirectionalEdgeInsets as an inset constant (#594)",
-            "tree": {
-                "sha": "b845271d8b0f972df0a16dc9c533cebe020ce76d",
-                "url": "https://api.github.com/repos/SnapKit/SnapKit/git/trees/b845271d8b0f972df0a16dc9c533cebe020ce76d"
-            },
-            "url": "https://api.github.com/repos/SnapKit/SnapKit/git/commits/04e9c890aa4ccf82dbd1759cd7f53cb0eabe0c02",
-            "comment_count": 0,
-            "verification": {
-                "verified": false,
-                "reason": "unsigned",
-                "signature": null,
-                "payload": null
-            }
-        },
-        "url": "https://api.github.com/repos/SnapKit/SnapKit/commits/04e9c890aa4ccf82dbd1759cd7f53cb0eabe0c02",
-        "html_url": "https://github.com/SnapKit/SnapKit/commit/04e9c890aa4ccf82dbd1759cd7f53cb0eabe0c02",
-        "comments_url": "https://api.github.com/repos/SnapKit/SnapKit/commits/04e9c890aa4ccf82dbd1759cd7f53cb0eabe0c02/comments",
-        "author": {
-            "login": "jctrouble",
-            "id": 1136226,
-            "node_id": "MDQ6VXNlcjExMzYyMjY=",
-            "avatar_url": "https://avatars.githubusercontent.com/u/1136226?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/jctrouble",
-            "html_url": "https://github.com/jctrouble",
-            "followers_url": "https://api.github.com/users/jctrouble/followers",
-            "following_url": "https://api.github.com/users/jctrouble/following{/other_user}",
-            "gists_url": "https://api.github.com/users/jctrouble/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/jctrouble/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/jctrouble/subscriptions",
-            "organizations_url": "https://api.github.com/users/jctrouble/orgs",
-            "repos_url": "https://api.github.com/users/jctrouble/repos",
-            "events_url": "https://api.github.com/users/jctrouble/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/jctrouble/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "committer": {
-            "login": "robertjpayne",
-            "id": 214288,
-            "node_id": "MDQ6VXNlcjIxNDI4OA==",
-            "avatar_url": "https://avatars.githubusercontent.com/u/214288?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/robertjpayne",
-            "html_url": "https://github.com/robertjpayne",
-            "followers_url": "https://api.github.com/users/robertjpayne/followers",
-            "following_url": "https://api.github.com/users/robertjpayne/following{/other_user}",
-            "gists_url": "https://api.github.com/users/robertjpayne/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/robertjpayne/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/robertjpayne/subscriptions",
-            "organizations_url": "https://api.github.com/users/robertjpayne/orgs",
-            "repos_url": "https://api.github.com/users/robertjpayne/repos",
-            "events_url": "https://api.github.com/users/robertjpayne/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/robertjpayne/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "parents": [
-            {
-                "sha": "9ee45b354dc5eb3b088e9bb2baf37a579e1100b6",
-                "url": "https://api.github.com/repos/SnapKit/SnapKit/commits/9ee45b354dc5eb3b088e9bb2baf37a579e1100b6",
-                "html_url": "https://github.com/SnapKit/SnapKit/commit/9ee45b354dc5eb3b088e9bb2baf37a579e1100b6"
-            }
-        ]
-    },
-    {
-        "sha": "9ee45b354dc5eb3b088e9bb2baf37a579e1100b6",
-        "node_id": "MDY6Q29tbWl0MjA1NDE3OTU6OWVlNDViMzU0ZGM1ZWIzYjA4OGU5YmIyYmFmMzdhNTc5ZTExMDBiNg==",
-        "commit": {
-            "author": {
-                "name": "Robert Payne",
-                "email": "robertpayne@me.com",
-                "date": "2019-04-28T11:06:23Z"
-            },
-            "committer": {
-                "name": "Robert Payne",
-                "email": "robertpayne@me.com",
-                "date": "2019-04-28T11:06:23Z"
-            },
-            "message": "Fix equality check for iOS",
-            "tree": {
-                "sha": "0d799f06274bc782d62c69790bb6fc7e0f8496fe",
-                "url": "https://api.github.com/repos/SnapKit/SnapKit/git/trees/0d799f06274bc782d62c69790bb6fc7e0f8496fe"
-            },
-            "url": "https://api.github.com/repos/SnapKit/SnapKit/git/commits/9ee45b354dc5eb3b088e9bb2baf37a579e1100b6",
-            "comment_count": 0,
-            "verification": {
-                "verified": false,
-                "reason": "unsigned",
-                "signature": null,
-                "payload": null
-            }
-        },
-        "url": "https://api.github.com/repos/SnapKit/SnapKit/commits/9ee45b354dc5eb3b088e9bb2baf37a579e1100b6",
-        "html_url": "https://github.com/SnapKit/SnapKit/commit/9ee45b354dc5eb3b088e9bb2baf37a579e1100b6",
-        "comments_url": "https://api.github.com/repos/SnapKit/SnapKit/commits/9ee45b354dc5eb3b088e9bb2baf37a579e1100b6/comments",
-        "author": {
-            "login": "robertjpayne",
-            "id": 214288,
-            "node_id": "MDQ6VXNlcjIxNDI4OA==",
-            "avatar_url": "https://avatars.githubusercontent.com/u/214288?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/robertjpayne",
-            "html_url": "https://github.com/robertjpayne",
-            "followers_url": "https://api.github.com/users/robertjpayne/followers",
-            "following_url": "https://api.github.com/users/robertjpayne/following{/other_user}",
-            "gists_url": "https://api.github.com/users/robertjpayne/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/robertjpayne/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/robertjpayne/subscriptions",
-            "organizations_url": "https://api.github.com/users/robertjpayne/orgs",
-            "repos_url": "https://api.github.com/users/robertjpayne/repos",
-            "events_url": "https://api.github.com/users/robertjpayne/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/robertjpayne/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "committer": {
-            "login": "robertjpayne",
-            "id": 214288,
-            "node_id": "MDQ6VXNlcjIxNDI4OA==",
-            "avatar_url": "https://avatars.githubusercontent.com/u/214288?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/robertjpayne",
-            "html_url": "https://github.com/robertjpayne",
-            "followers_url": "https://api.github.com/users/robertjpayne/followers",
-            "following_url": "https://api.github.com/users/robertjpayne/following{/other_user}",
-            "gists_url": "https://api.github.com/users/robertjpayne/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/robertjpayne/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/robertjpayne/subscriptions",
-            "organizations_url": "https://api.github.com/users/robertjpayne/orgs",
-            "repos_url": "https://api.github.com/users/robertjpayne/repos",
-            "events_url": "https://api.github.com/users/robertjpayne/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/robertjpayne/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "parents": [
-            {
-                "sha": "c904582015d5a8eed917d79a7f28ea2b5a8ddde3",
-                "url": "https://api.github.com/repos/SnapKit/SnapKit/commits/c904582015d5a8eed917d79a7f28ea2b5a8ddde3",
-                "html_url": "https://github.com/SnapKit/SnapKit/commit/c904582015d5a8eed917d79a7f28ea2b5a8ddde3"
             }
         ]
     }
