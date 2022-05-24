@@ -1,5 +1,726 @@
 [
     {
+        "sha": "754f514c8a42e26d9ced951f89f401c48127eee8",
+        "node_id": "C_kwDOB3k29toAKDc1NGY1MTRjOGE0MmUyNmQ5Y2VkOTUxZjg5ZjQwMWM0ODEyN2VlZTg",
+        "commit": {
+            "author": {
+                "name": "Miguel Angel Quinones Garcia",
+                "email": "miguel@miqu.me",
+                "date": "2022-05-24T07:47:17Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2022-05-24T07:47:17Z"
+            },
+            "message": "[TIDY] Readme",
+            "tree": {
+                "sha": "a9ed255f68b77d64072b657a1cbaf307cbe65075",
+                "url": "https://api.github.com/repos/argentlabs/web3.swift/git/trees/a9ed255f68b77d64072b657a1cbaf307cbe65075"
+            },
+            "url": "https://api.github.com/repos/argentlabs/web3.swift/git/commits/754f514c8a42e26d9ced951f89f401c48127eee8",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJijI2FCRBK7hj4Ov3rIwAAXnUIAEPjH/N6ueK1khdaC3J4uylR\n+f5bRlf2K1fZTDkzc6OHqilDNUeOQCZu2FpOzYxo31234X1rEp2FGjikIpB4Hf2E\nsRHtfzvNxnoXGRQSI5gExetKofjciJBF9PxAFMkdVMMqxaHz0/iSE2gc+XvAaFMr\nCgpTMHYsAylrSHvdoxBA69qOW088wGatx7LiWdwRhwpbV7NaPrwH/ZJDFE1dXKq7\n7vuoUi7MTOzYoQUIjMioJVAL+5qF7Zmw7AtxRVJZX4/O1gW7sC0zyYcTefK/soU3\nEbt+RCOLQ8uRgXDU712gVCfID5Qy/fPm0ayScH6B5MlTzuLn6jgVsylxsYUUq9o=\n=khTC\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree a9ed255f68b77d64072b657a1cbaf307cbe65075\nparent 706fb0272f47697440b9f302a8ae2f8156cdce38\nauthor Miguel Angel Quinones Garcia <miguel@miqu.me> 1653378437 +0200\ncommitter GitHub <noreply@github.com> 1653378437 +0200\n\n[TIDY] Readme"
+            }
+        },
+        "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/754f514c8a42e26d9ced951f89f401c48127eee8",
+        "html_url": "https://github.com/argentlabs/web3.swift/commit/754f514c8a42e26d9ced951f89f401c48127eee8",
+        "comments_url": "https://api.github.com/repos/argentlabs/web3.swift/commits/754f514c8a42e26d9ced951f89f401c48127eee8/comments",
+        "author": {
+            "login": "DarthMike",
+            "id": 1030987,
+            "node_id": "MDQ6VXNlcjEwMzA5ODc=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1030987?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/DarthMike",
+            "html_url": "https://github.com/DarthMike",
+            "followers_url": "https://api.github.com/users/DarthMike/followers",
+            "following_url": "https://api.github.com/users/DarthMike/following{/other_user}",
+            "gists_url": "https://api.github.com/users/DarthMike/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/DarthMike/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/DarthMike/subscriptions",
+            "organizations_url": "https://api.github.com/users/DarthMike/orgs",
+            "repos_url": "https://api.github.com/users/DarthMike/repos",
+            "events_url": "https://api.github.com/users/DarthMike/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/DarthMike/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "706fb0272f47697440b9f302a8ae2f8156cdce38",
+                "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/706fb0272f47697440b9f302a8ae2f8156cdce38",
+                "html_url": "https://github.com/argentlabs/web3.swift/commit/706fb0272f47697440b9f302a8ae2f8156cdce38"
+            }
+        ]
+    },
+    {
+        "sha": "706fb0272f47697440b9f302a8ae2f8156cdce38",
+        "node_id": "C_kwDOB3k29toAKDcwNmZiMDI3MmY0NzY5NzQ0MGI5ZjMwMmE4YWUyZjgxNTZjZGNlMzg",
+        "commit": {
+            "author": {
+                "name": "Miguel Angel Quinones",
+                "email": "miguel@miqu.me",
+                "date": "2022-05-24T07:39:00Z"
+            },
+            "committer": {
+                "name": "Miguel Angel Quinones",
+                "email": "miguel@miqu.me",
+                "date": "2022-05-24T07:39:00Z"
+            },
+            "message": "[UPDATE] Version",
+            "tree": {
+                "sha": "a250963eea398ede53f491c08a59924358e646f9",
+                "url": "https://api.github.com/repos/argentlabs/web3.swift/git/trees/a250963eea398ede53f491c08a59924358e646f9"
+            },
+            "url": "https://api.github.com/repos/argentlabs/web3.swift/git/commits/706fb0272f47697440b9f302a8ae2f8156cdce38",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/706fb0272f47697440b9f302a8ae2f8156cdce38",
+        "html_url": "https://github.com/argentlabs/web3.swift/commit/706fb0272f47697440b9f302a8ae2f8156cdce38",
+        "comments_url": "https://api.github.com/repos/argentlabs/web3.swift/commits/706fb0272f47697440b9f302a8ae2f8156cdce38/comments",
+        "author": {
+            "login": "DarthMike",
+            "id": 1030987,
+            "node_id": "MDQ6VXNlcjEwMzA5ODc=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1030987?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/DarthMike",
+            "html_url": "https://github.com/DarthMike",
+            "followers_url": "https://api.github.com/users/DarthMike/followers",
+            "following_url": "https://api.github.com/users/DarthMike/following{/other_user}",
+            "gists_url": "https://api.github.com/users/DarthMike/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/DarthMike/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/DarthMike/subscriptions",
+            "organizations_url": "https://api.github.com/users/DarthMike/orgs",
+            "repos_url": "https://api.github.com/users/DarthMike/repos",
+            "events_url": "https://api.github.com/users/DarthMike/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/DarthMike/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "DarthMike",
+            "id": 1030987,
+            "node_id": "MDQ6VXNlcjEwMzA5ODc=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1030987?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/DarthMike",
+            "html_url": "https://github.com/DarthMike",
+            "followers_url": "https://api.github.com/users/DarthMike/followers",
+            "following_url": "https://api.github.com/users/DarthMike/following{/other_user}",
+            "gists_url": "https://api.github.com/users/DarthMike/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/DarthMike/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/DarthMike/subscriptions",
+            "organizations_url": "https://api.github.com/users/DarthMike/orgs",
+            "repos_url": "https://api.github.com/users/DarthMike/repos",
+            "events_url": "https://api.github.com/users/DarthMike/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/DarthMike/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "46f59502abc1fe31724b858d9cbb43a130e4e4f2",
+                "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/46f59502abc1fe31724b858d9cbb43a130e4e4f2",
+                "html_url": "https://github.com/argentlabs/web3.swift/commit/46f59502abc1fe31724b858d9cbb43a130e4e4f2"
+            }
+        ]
+    },
+    {
+        "sha": "46f59502abc1fe31724b858d9cbb43a130e4e4f2",
+        "node_id": "C_kwDOB3k29toAKDQ2ZjU5NTAyYWJjMWZlMzE3MjRiODU4ZDljYmI0M2ExMzBlNGU0ZjI",
+        "commit": {
+            "author": {
+                "name": "Miguel Angel Quinones Garcia",
+                "email": "miguel@miqu.me",
+                "date": "2022-05-24T07:14:41Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2022-05-24T07:14:41Z"
+            },
+            "message": "Merge pull request #214 from argentlabs/feature/ens-wildcard-resolution\n\n[ADD] Support wildcard domain resolution (EIP-10)",
+            "tree": {
+                "sha": "73540cdcfd979e0810fae4cd56be26fe0b946bbd",
+                "url": "https://api.github.com/repos/argentlabs/web3.swift/git/trees/73540cdcfd979e0810fae4cd56be26fe0b946bbd"
+            },
+            "url": "https://api.github.com/repos/argentlabs/web3.swift/git/commits/46f59502abc1fe31724b858d9cbb43a130e4e4f2",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJijIXhCRBK7hj4Ov3rIwAApkEIAHBF2uHsFnql90cH6puNXRk0\nxg2KwB9jh8KnVSlOgRGTz3/DBY/rOmGqtcf6Rbi7r6bnufAEYwID0VCu0GmceT+j\ns9eKPay8xJQVAry5RDYzRPNqD7t7MVL6jxac+HophROynjbHWiFSygz5cJXxpSZB\n/+b6FISGIiycvqpYcOOP4MEEC5AgFASMPasBuxi50AlNWqzp/W9EwYvs/0eGSvQ3\n3BmgDIOPKZRaJQz7JNF1ErDEtVceLjDUV+YZkRSG9msdZnxWLPtoW2ukGclmVxJd\nxuUCkUU72j0+rG6SC815MPGMDUw1gpwwX9GVY5uV5s8wcBIyrqSeFJyUujXXsRw=\n=oBBt\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree 73540cdcfd979e0810fae4cd56be26fe0b946bbd\nparent 8ba88105dc5eae8fd0f579caab6da8dfc205494a\nparent c19159bef635d28276e6fba2dee40745af64b404\nauthor Miguel Angel Quinones Garcia <miguel@miqu.me> 1653376481 +0200\ncommitter GitHub <noreply@github.com> 1653376481 +0200\n\nMerge pull request #214 from argentlabs/feature/ens-wildcard-resolution\n\n[ADD] Support wildcard domain resolution (EIP-10)"
+            }
+        },
+        "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/46f59502abc1fe31724b858d9cbb43a130e4e4f2",
+        "html_url": "https://github.com/argentlabs/web3.swift/commit/46f59502abc1fe31724b858d9cbb43a130e4e4f2",
+        "comments_url": "https://api.github.com/repos/argentlabs/web3.swift/commits/46f59502abc1fe31724b858d9cbb43a130e4e4f2/comments",
+        "author": {
+            "login": "DarthMike",
+            "id": 1030987,
+            "node_id": "MDQ6VXNlcjEwMzA5ODc=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1030987?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/DarthMike",
+            "html_url": "https://github.com/DarthMike",
+            "followers_url": "https://api.github.com/users/DarthMike/followers",
+            "following_url": "https://api.github.com/users/DarthMike/following{/other_user}",
+            "gists_url": "https://api.github.com/users/DarthMike/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/DarthMike/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/DarthMike/subscriptions",
+            "organizations_url": "https://api.github.com/users/DarthMike/orgs",
+            "repos_url": "https://api.github.com/users/DarthMike/repos",
+            "events_url": "https://api.github.com/users/DarthMike/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/DarthMike/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "8ba88105dc5eae8fd0f579caab6da8dfc205494a",
+                "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/8ba88105dc5eae8fd0f579caab6da8dfc205494a",
+                "html_url": "https://github.com/argentlabs/web3.swift/commit/8ba88105dc5eae8fd0f579caab6da8dfc205494a"
+            },
+            {
+                "sha": "c19159bef635d28276e6fba2dee40745af64b404",
+                "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/c19159bef635d28276e6fba2dee40745af64b404",
+                "html_url": "https://github.com/argentlabs/web3.swift/commit/c19159bef635d28276e6fba2dee40745af64b404"
+            }
+        ]
+    },
+    {
+        "sha": "c19159bef635d28276e6fba2dee40745af64b404",
+        "node_id": "C_kwDOB3k29toAKGMxOTE1OWJlZjYzNWQyODI3NmU2ZmJhMmRlZTQwNzQ1YWY2NGI0MDQ",
+        "commit": {
+            "author": {
+                "name": "Miguel Angel Quinones",
+                "email": "miguel@miqu.me",
+                "date": "2022-05-24T06:33:42Z"
+            },
+            "committer": {
+                "name": "Miguel Angel Quinones",
+                "email": "miguel@miqu.me",
+                "date": "2022-05-24T06:33:42Z"
+            },
+            "message": "[ADD] Support wildcard domain resolution (EIP-10)\n\nhttps://docs.ens.domains/ens-improvement-proposals/ensip-10-wildcard-resolution",
+            "tree": {
+                "sha": "73540cdcfd979e0810fae4cd56be26fe0b946bbd",
+                "url": "https://api.github.com/repos/argentlabs/web3.swift/git/trees/73540cdcfd979e0810fae4cd56be26fe0b946bbd"
+            },
+            "url": "https://api.github.com/repos/argentlabs/web3.swift/git/commits/c19159bef635d28276e6fba2dee40745af64b404",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/c19159bef635d28276e6fba2dee40745af64b404",
+        "html_url": "https://github.com/argentlabs/web3.swift/commit/c19159bef635d28276e6fba2dee40745af64b404",
+        "comments_url": "https://api.github.com/repos/argentlabs/web3.swift/commits/c19159bef635d28276e6fba2dee40745af64b404/comments",
+        "author": {
+            "login": "DarthMike",
+            "id": 1030987,
+            "node_id": "MDQ6VXNlcjEwMzA5ODc=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1030987?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/DarthMike",
+            "html_url": "https://github.com/DarthMike",
+            "followers_url": "https://api.github.com/users/DarthMike/followers",
+            "following_url": "https://api.github.com/users/DarthMike/following{/other_user}",
+            "gists_url": "https://api.github.com/users/DarthMike/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/DarthMike/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/DarthMike/subscriptions",
+            "organizations_url": "https://api.github.com/users/DarthMike/orgs",
+            "repos_url": "https://api.github.com/users/DarthMike/repos",
+            "events_url": "https://api.github.com/users/DarthMike/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/DarthMike/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "DarthMike",
+            "id": 1030987,
+            "node_id": "MDQ6VXNlcjEwMzA5ODc=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1030987?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/DarthMike",
+            "html_url": "https://github.com/DarthMike",
+            "followers_url": "https://api.github.com/users/DarthMike/followers",
+            "following_url": "https://api.github.com/users/DarthMike/following{/other_user}",
+            "gists_url": "https://api.github.com/users/DarthMike/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/DarthMike/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/DarthMike/subscriptions",
+            "organizations_url": "https://api.github.com/users/DarthMike/orgs",
+            "repos_url": "https://api.github.com/users/DarthMike/repos",
+            "events_url": "https://api.github.com/users/DarthMike/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/DarthMike/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "8ba88105dc5eae8fd0f579caab6da8dfc205494a",
+                "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/8ba88105dc5eae8fd0f579caab6da8dfc205494a",
+                "html_url": "https://github.com/argentlabs/web3.swift/commit/8ba88105dc5eae8fd0f579caab6da8dfc205494a"
+            }
+        ]
+    },
+    {
+        "sha": "8ba88105dc5eae8fd0f579caab6da8dfc205494a",
+        "node_id": "C_kwDOB3k29toAKDhiYTg4MTA1ZGM1ZWFlOGZkMGY1NzljYWFiNmRhOGRmYzIwNTQ5NGE",
+        "commit": {
+            "author": {
+                "name": "Miguel Angel Quinones Garcia",
+                "email": "miguel@miqu.me",
+                "date": "2022-05-23T17:38:02Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2022-05-23T17:38:02Z"
+            },
+            "message": "[ADD] ENS resolvers: Cache resolvers by address to avoid repeating 'supportsInterface' calls (#213)",
+            "tree": {
+                "sha": "bb6326dc052f0ccf336f220dcc1d771d1157e398",
+                "url": "https://api.github.com/repos/argentlabs/web3.swift/git/trees/bb6326dc052f0ccf336f220dcc1d771d1157e398"
+            },
+            "url": "https://api.github.com/repos/argentlabs/web3.swift/git/commits/8ba88105dc5eae8fd0f579caab6da8dfc205494a",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJii8Z6CRBK7hj4Ov3rIwAAQhYIAIp0JNPl5oaTJcZ9fIrDwYGW\nml/0HwK9Efy36uil41688i0tKo2f1PfCXBddt6cjcPJtBgA/haQxZ6EEKPSY9nue\njenboGI9ZPogNxCy5W1B9FF3Zl0Xil3b/w7J5HOLQ74PGKhdnmlt9HaCRo2ki0Gk\nNIZEEPLArxZZR+Zb2h1HzvQ1ScVSG640ctpNJx2kc8N75yJSK2az6eAlJYnyJO/Y\nwyLWgXecf7eDMuaLILtyBSdLhzUaYjyQ9le+gpxWcmOj6UTxzKwHjSO3jPpQTWBH\nJLxkteXy7AwVziPrOLt462RqjoKtquq1ZbTRZJo07mFAF4+TaJJkLJ6tVt3pVKQ=\n=bx0A\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree bb6326dc052f0ccf336f220dcc1d771d1157e398\nparent 7ac7fe4ecd2009e0e28bc3c1f58368f87bad3d12\nauthor Miguel Angel Quinones Garcia <miguel@miqu.me> 1653327482 +0200\ncommitter GitHub <noreply@github.com> 1653327482 +0100\n\n[ADD] ENS resolvers: Cache resolvers by address to avoid repeating 'supportsInterface' calls (#213)\n\n"
+            }
+        },
+        "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/8ba88105dc5eae8fd0f579caab6da8dfc205494a",
+        "html_url": "https://github.com/argentlabs/web3.swift/commit/8ba88105dc5eae8fd0f579caab6da8dfc205494a",
+        "comments_url": "https://api.github.com/repos/argentlabs/web3.swift/commits/8ba88105dc5eae8fd0f579caab6da8dfc205494a/comments",
+        "author": {
+            "login": "DarthMike",
+            "id": 1030987,
+            "node_id": "MDQ6VXNlcjEwMzA5ODc=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1030987?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/DarthMike",
+            "html_url": "https://github.com/DarthMike",
+            "followers_url": "https://api.github.com/users/DarthMike/followers",
+            "following_url": "https://api.github.com/users/DarthMike/following{/other_user}",
+            "gists_url": "https://api.github.com/users/DarthMike/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/DarthMike/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/DarthMike/subscriptions",
+            "organizations_url": "https://api.github.com/users/DarthMike/orgs",
+            "repos_url": "https://api.github.com/users/DarthMike/repos",
+            "events_url": "https://api.github.com/users/DarthMike/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/DarthMike/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "7ac7fe4ecd2009e0e28bc3c1f58368f87bad3d12",
+                "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/7ac7fe4ecd2009e0e28bc3c1f58368f87bad3d12",
+                "html_url": "https://github.com/argentlabs/web3.swift/commit/7ac7fe4ecd2009e0e28bc3c1f58368f87bad3d12"
+            }
+        ]
+    },
+    {
+        "sha": "7ac7fe4ecd2009e0e28bc3c1f58368f87bad3d12",
+        "node_id": "C_kwDOB3k29toAKDdhYzdmZTRlY2QyMDA5ZTBlMjhiYzNjMWY1ODM2OGY4N2JhZDNkMTI",
+        "commit": {
+            "author": {
+                "name": "Miguel Angel Quinones Garcia",
+                "email": "miguel@miqu.me",
+                "date": "2022-05-20T15:35:01Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2022-05-20T15:35:01Z"
+            },
+            "message": "Merge pull request #212 from argentlabs/tech/async-conditional\n\n[TIDY] Async/await APIs available without version requirement",
+            "tree": {
+                "sha": "667e5f4f2dc703d2736108dd7684ad531ec6d124",
+                "url": "https://api.github.com/repos/argentlabs/web3.swift/git/trees/667e5f4f2dc703d2736108dd7684ad531ec6d124"
+            },
+            "url": "https://api.github.com/repos/argentlabs/web3.swift/git/commits/7ac7fe4ecd2009e0e28bc3c1f58368f87bad3d12",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJih7UlCRBK7hj4Ov3rIwAAKYEIAKCUPe0yXheRnQKMXhsrufko\nmqJvS8zIWTvAH8LkKhbsT1eYMF+mYuGH9PNY+RSq+pfGqocXku8Pqgjc5PzabhE8\np6x8aBeRWgzYlDqQEcGvTtdJNy2NFSUPudbNOYU7Vi3J8b1S1sOsk3SmdIVGyo8a\n0YWw7LiqYLenF/Cwen7Z6HE35Na8+RJQkVBSnC6RKWTcXX1XtFWpElMHuI6iNitB\n8o/CO0tkfAIv9pBA19Yo7w4s/SFPpA5o3rSSEp8u58H7ieqqtBNAuddKH8kQn5oY\nqAHRVjN33b1NbLBUpI9VuXui+7OWHvwzAIc+1DibPdffn7xllGZ5VJMCemh+Z1U=\n=no4k\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree 667e5f4f2dc703d2736108dd7684ad531ec6d124\nparent f1e2f1027f315ac32fa8ad87b1efd25b3fe68539\nparent ad682b46a82205abec5badb906e65fd4f8485b25\nauthor Miguel Angel Quinones Garcia <miguel@miqu.me> 1653060901 +0200\ncommitter GitHub <noreply@github.com> 1653060901 +0200\n\nMerge pull request #212 from argentlabs/tech/async-conditional\n\n[TIDY] Async/await APIs available without version requirement"
+            }
+        },
+        "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/7ac7fe4ecd2009e0e28bc3c1f58368f87bad3d12",
+        "html_url": "https://github.com/argentlabs/web3.swift/commit/7ac7fe4ecd2009e0e28bc3c1f58368f87bad3d12",
+        "comments_url": "https://api.github.com/repos/argentlabs/web3.swift/commits/7ac7fe4ecd2009e0e28bc3c1f58368f87bad3d12/comments",
+        "author": {
+            "login": "DarthMike",
+            "id": 1030987,
+            "node_id": "MDQ6VXNlcjEwMzA5ODc=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1030987?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/DarthMike",
+            "html_url": "https://github.com/DarthMike",
+            "followers_url": "https://api.github.com/users/DarthMike/followers",
+            "following_url": "https://api.github.com/users/DarthMike/following{/other_user}",
+            "gists_url": "https://api.github.com/users/DarthMike/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/DarthMike/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/DarthMike/subscriptions",
+            "organizations_url": "https://api.github.com/users/DarthMike/orgs",
+            "repos_url": "https://api.github.com/users/DarthMike/repos",
+            "events_url": "https://api.github.com/users/DarthMike/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/DarthMike/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "f1e2f1027f315ac32fa8ad87b1efd25b3fe68539",
+                "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/f1e2f1027f315ac32fa8ad87b1efd25b3fe68539",
+                "html_url": "https://github.com/argentlabs/web3.swift/commit/f1e2f1027f315ac32fa8ad87b1efd25b3fe68539"
+            },
+            {
+                "sha": "ad682b46a82205abec5badb906e65fd4f8485b25",
+                "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/ad682b46a82205abec5badb906e65fd4f8485b25",
+                "html_url": "https://github.com/argentlabs/web3.swift/commit/ad682b46a82205abec5badb906e65fd4f8485b25"
+            }
+        ]
+    },
+    {
+        "sha": "ad682b46a82205abec5badb906e65fd4f8485b25",
+        "node_id": "C_kwDOB3k29toAKGFkNjgyYjQ2YTgyMjA1YWJlYzViYWRiOTA2ZTY1ZmQ0Zjg0ODViMjU",
+        "commit": {
+            "author": {
+                "name": "Miguel Angel Quinones",
+                "email": "miguel@miqu.me",
+                "date": "2022-05-19T20:15:43Z"
+            },
+            "committer": {
+                "name": "Miguel Angel Quinones",
+                "email": "miguel@miqu.me",
+                "date": "2022-05-20T08:20:55Z"
+            },
+            "message": "[ADD] Run Linux CI",
+            "tree": {
+                "sha": "667e5f4f2dc703d2736108dd7684ad531ec6d124",
+                "url": "https://api.github.com/repos/argentlabs/web3.swift/git/trees/667e5f4f2dc703d2736108dd7684ad531ec6d124"
+            },
+            "url": "https://api.github.com/repos/argentlabs/web3.swift/git/commits/ad682b46a82205abec5badb906e65fd4f8485b25",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/ad682b46a82205abec5badb906e65fd4f8485b25",
+        "html_url": "https://github.com/argentlabs/web3.swift/commit/ad682b46a82205abec5badb906e65fd4f8485b25",
+        "comments_url": "https://api.github.com/repos/argentlabs/web3.swift/commits/ad682b46a82205abec5badb906e65fd4f8485b25/comments",
+        "author": {
+            "login": "DarthMike",
+            "id": 1030987,
+            "node_id": "MDQ6VXNlcjEwMzA5ODc=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1030987?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/DarthMike",
+            "html_url": "https://github.com/DarthMike",
+            "followers_url": "https://api.github.com/users/DarthMike/followers",
+            "following_url": "https://api.github.com/users/DarthMike/following{/other_user}",
+            "gists_url": "https://api.github.com/users/DarthMike/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/DarthMike/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/DarthMike/subscriptions",
+            "organizations_url": "https://api.github.com/users/DarthMike/orgs",
+            "repos_url": "https://api.github.com/users/DarthMike/repos",
+            "events_url": "https://api.github.com/users/DarthMike/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/DarthMike/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "DarthMike",
+            "id": 1030987,
+            "node_id": "MDQ6VXNlcjEwMzA5ODc=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1030987?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/DarthMike",
+            "html_url": "https://github.com/DarthMike",
+            "followers_url": "https://api.github.com/users/DarthMike/followers",
+            "following_url": "https://api.github.com/users/DarthMike/following{/other_user}",
+            "gists_url": "https://api.github.com/users/DarthMike/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/DarthMike/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/DarthMike/subscriptions",
+            "organizations_url": "https://api.github.com/users/DarthMike/orgs",
+            "repos_url": "https://api.github.com/users/DarthMike/repos",
+            "events_url": "https://api.github.com/users/DarthMike/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/DarthMike/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "8992c7587db55e4214546c3ea03a4b79cbba8b30",
+                "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/8992c7587db55e4214546c3ea03a4b79cbba8b30",
+                "html_url": "https://github.com/argentlabs/web3.swift/commit/8992c7587db55e4214546c3ea03a4b79cbba8b30"
+            }
+        ]
+    },
+    {
+        "sha": "8992c7587db55e4214546c3ea03a4b79cbba8b30",
+        "node_id": "C_kwDOB3k29toAKDg5OTJjNzU4N2RiNTVlNDIxNDU0NmMzZWEwM2E0Yjc5Y2JiYThiMzA",
+        "commit": {
+            "author": {
+                "name": "Miguel Angel Quinones",
+                "email": "miguel@miqu.me",
+                "date": "2022-05-19T17:35:18Z"
+            },
+            "committer": {
+                "name": "Miguel Angel Quinones",
+                "email": "miguel@miqu.me",
+                "date": "2022-05-20T07:51:09Z"
+            },
+            "message": "[TIDY] Async/await APIs available without version requirement. Use only async/await for tests",
+            "tree": {
+                "sha": "3be1022ecb34309e2e47c090a8bd20654a18d314",
+                "url": "https://api.github.com/repos/argentlabs/web3.swift/git/trees/3be1022ecb34309e2e47c090a8bd20654a18d314"
+            },
+            "url": "https://api.github.com/repos/argentlabs/web3.swift/git/commits/8992c7587db55e4214546c3ea03a4b79cbba8b30",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/8992c7587db55e4214546c3ea03a4b79cbba8b30",
+        "html_url": "https://github.com/argentlabs/web3.swift/commit/8992c7587db55e4214546c3ea03a4b79cbba8b30",
+        "comments_url": "https://api.github.com/repos/argentlabs/web3.swift/commits/8992c7587db55e4214546c3ea03a4b79cbba8b30/comments",
+        "author": {
+            "login": "DarthMike",
+            "id": 1030987,
+            "node_id": "MDQ6VXNlcjEwMzA5ODc=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1030987?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/DarthMike",
+            "html_url": "https://github.com/DarthMike",
+            "followers_url": "https://api.github.com/users/DarthMike/followers",
+            "following_url": "https://api.github.com/users/DarthMike/following{/other_user}",
+            "gists_url": "https://api.github.com/users/DarthMike/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/DarthMike/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/DarthMike/subscriptions",
+            "organizations_url": "https://api.github.com/users/DarthMike/orgs",
+            "repos_url": "https://api.github.com/users/DarthMike/repos",
+            "events_url": "https://api.github.com/users/DarthMike/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/DarthMike/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "DarthMike",
+            "id": 1030987,
+            "node_id": "MDQ6VXNlcjEwMzA5ODc=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1030987?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/DarthMike",
+            "html_url": "https://github.com/DarthMike",
+            "followers_url": "https://api.github.com/users/DarthMike/followers",
+            "following_url": "https://api.github.com/users/DarthMike/following{/other_user}",
+            "gists_url": "https://api.github.com/users/DarthMike/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/DarthMike/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/DarthMike/subscriptions",
+            "organizations_url": "https://api.github.com/users/DarthMike/orgs",
+            "repos_url": "https://api.github.com/users/DarthMike/repos",
+            "events_url": "https://api.github.com/users/DarthMike/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/DarthMike/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "f1e2f1027f315ac32fa8ad87b1efd25b3fe68539",
+                "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/f1e2f1027f315ac32fa8ad87b1efd25b3fe68539",
+                "html_url": "https://github.com/argentlabs/web3.swift/commit/f1e2f1027f315ac32fa8ad87b1efd25b3fe68539"
+            }
+        ]
+    },
+    {
+        "sha": "f1e2f1027f315ac32fa8ad87b1efd25b3fe68539",
+        "node_id": "C_kwDOB3k29toAKGYxZTJmMTAyN2YzMTVhYzMyZmE4YWQ4N2IxZWZkMjViM2ZlNjg1Mzk",
+        "commit": {
+            "author": {
+                "name": "Miguel Angel Quinones Garcia",
+                "email": "miguel@miqu.me",
+                "date": "2022-05-18T14:57:55Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2022-05-18T14:57:55Z"
+            },
+            "message": "[ADD] Offchain Read support (EIP-3668) for eth_call and ENS resolution (#208)",
+            "tree": {
+                "sha": "4663e1469202d639f6832a39d96e6b964a062cf5",
+                "url": "https://api.github.com/repos/argentlabs/web3.swift/git/trees/4663e1469202d639f6832a39d96e6b964a062cf5"
+            },
+            "url": "https://api.github.com/repos/argentlabs/web3.swift/git/commits/f1e2f1027f315ac32fa8ad87b1efd25b3fe68539",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJihQlzCRBK7hj4Ov3rIwAA0UgIAJaEfn7mFbn+X+29jvjNEGKD\nblpvB4z1jfG39dAFzSORu6CVLAI//rPrR4qgsF/QGsqgMB/iaDmxibRDTZlNAsTc\ng5qbBIOJhIxioduKTmgfZcAzg8REKSHSM2ItqShnuA4kUU893jRrVbz11nvpheDW\nQwFfR3KKhPgLpMYR5rDwAOHhiIIywcGx4hXd1cFungScHGlzLA2533R7damhGrBV\nvTN4PSCtQfxclOUwLum9upc5YfCPRP1CfMwrma10ZztUCNMpZrsnSJVcD9KG8WfK\nXojJfnj7UivdQZeTDVCNXjyZYfNvrYw9g9jpJvFqwgD8YfUGcQvhCrJoJnea/jk=\n=Mn3O\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree 4663e1469202d639f6832a39d96e6b964a062cf5\nparent 4f1f8930338fc32512c49964b3cb089ddf97c325\nauthor Miguel Angel Quinones Garcia <miguel@miqu.me> 1652885875 +0200\ncommitter GitHub <noreply@github.com> 1652885875 +0100\n\n[ADD] Offchain Read support (EIP-3668) for eth_call and ENS resolution (#208)\n\n"
+            }
+        },
+        "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/f1e2f1027f315ac32fa8ad87b1efd25b3fe68539",
+        "html_url": "https://github.com/argentlabs/web3.swift/commit/f1e2f1027f315ac32fa8ad87b1efd25b3fe68539",
+        "comments_url": "https://api.github.com/repos/argentlabs/web3.swift/commits/f1e2f1027f315ac32fa8ad87b1efd25b3fe68539/comments",
+        "author": {
+            "login": "DarthMike",
+            "id": 1030987,
+            "node_id": "MDQ6VXNlcjEwMzA5ODc=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1030987?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/DarthMike",
+            "html_url": "https://github.com/DarthMike",
+            "followers_url": "https://api.github.com/users/DarthMike/followers",
+            "following_url": "https://api.github.com/users/DarthMike/following{/other_user}",
+            "gists_url": "https://api.github.com/users/DarthMike/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/DarthMike/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/DarthMike/subscriptions",
+            "organizations_url": "https://api.github.com/users/DarthMike/orgs",
+            "repos_url": "https://api.github.com/users/DarthMike/repos",
+            "events_url": "https://api.github.com/users/DarthMike/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/DarthMike/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "4f1f8930338fc32512c49964b3cb089ddf97c325",
+                "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/4f1f8930338fc32512c49964b3cb089ddf97c325",
+                "html_url": "https://github.com/argentlabs/web3.swift/commit/4f1f8930338fc32512c49964b3cb089ddf97c325"
+            }
+        ]
+    },
+    {
         "sha": "4f1f8930338fc32512c49964b3cb089ddf97c325",
         "node_id": "C_kwDOB3k29toAKDRmMWY4OTMwMzM4ZmMzMjUxMmM0OTk2NGIzY2IwODlkZGY5N2MzMjU",
         "commit": {
@@ -1700,742 +2421,6 @@
                 "sha": "8c084c190a92898f13e0d90c8915f5093065ff04",
                 "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/8c084c190a92898f13e0d90c8915f5093065ff04",
                 "html_url": "https://github.com/argentlabs/web3.swift/commit/8c084c190a92898f13e0d90c8915f5093065ff04"
-            }
-        ]
-    },
-    {
-        "sha": "8c084c190a92898f13e0d90c8915f5093065ff04",
-        "node_id": "C_kwDOB3k29toAKDhjMDg0YzE5MGE5Mjg5OGYxM2UwZDkwYzg5MTVmNTA5MzA2NWZmMDQ",
-        "commit": {
-            "author": {
-                "name": "Dalton Claybrook",
-                "email": "daltonclaybrook@gmail.com",
-                "date": "2022-02-24T17:16:59Z"
-            },
-            "committer": {
-                "name": "Dalton Claybrook",
-                "email": "daltonclaybrook@gmail.com",
-                "date": "2022-02-24T17:16:59Z"
-            },
-            "message": "Add private key encryption/decryption functionality to EthereumKeyStorageProtocol extension",
-            "tree": {
-                "sha": "5f24871c174a2420daaa800a4602e9ec2e7221f4",
-                "url": "https://api.github.com/repos/argentlabs/web3.swift/git/trees/5f24871c174a2420daaa800a4602e9ec2e7221f4"
-            },
-            "url": "https://api.github.com/repos/argentlabs/web3.swift/git/commits/8c084c190a92898f13e0d90c8915f5093065ff04",
-            "comment_count": 0,
-            "verification": {
-                "verified": false,
-                "reason": "unsigned",
-                "signature": null,
-                "payload": null
-            }
-        },
-        "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/8c084c190a92898f13e0d90c8915f5093065ff04",
-        "html_url": "https://github.com/argentlabs/web3.swift/commit/8c084c190a92898f13e0d90c8915f5093065ff04",
-        "comments_url": "https://api.github.com/repos/argentlabs/web3.swift/commits/8c084c190a92898f13e0d90c8915f5093065ff04/comments",
-        "author": {
-            "login": "daltonclaybrook",
-            "id": 1727803,
-            "node_id": "MDQ6VXNlcjE3Mjc4MDM=",
-            "avatar_url": "https://avatars.githubusercontent.com/u/1727803?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/daltonclaybrook",
-            "html_url": "https://github.com/daltonclaybrook",
-            "followers_url": "https://api.github.com/users/daltonclaybrook/followers",
-            "following_url": "https://api.github.com/users/daltonclaybrook/following{/other_user}",
-            "gists_url": "https://api.github.com/users/daltonclaybrook/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/daltonclaybrook/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/daltonclaybrook/subscriptions",
-            "organizations_url": "https://api.github.com/users/daltonclaybrook/orgs",
-            "repos_url": "https://api.github.com/users/daltonclaybrook/repos",
-            "events_url": "https://api.github.com/users/daltonclaybrook/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/daltonclaybrook/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "committer": {
-            "login": "daltonclaybrook",
-            "id": 1727803,
-            "node_id": "MDQ6VXNlcjE3Mjc4MDM=",
-            "avatar_url": "https://avatars.githubusercontent.com/u/1727803?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/daltonclaybrook",
-            "html_url": "https://github.com/daltonclaybrook",
-            "followers_url": "https://api.github.com/users/daltonclaybrook/followers",
-            "following_url": "https://api.github.com/users/daltonclaybrook/following{/other_user}",
-            "gists_url": "https://api.github.com/users/daltonclaybrook/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/daltonclaybrook/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/daltonclaybrook/subscriptions",
-            "organizations_url": "https://api.github.com/users/daltonclaybrook/orgs",
-            "repos_url": "https://api.github.com/users/daltonclaybrook/repos",
-            "events_url": "https://api.github.com/users/daltonclaybrook/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/daltonclaybrook/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "parents": [
-            {
-                "sha": "769762fdc544734ffe5eabc9e7d1c42260bd9be3",
-                "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/769762fdc544734ffe5eabc9e7d1c42260bd9be3",
-                "html_url": "https://github.com/argentlabs/web3.swift/commit/769762fdc544734ffe5eabc9e7d1c42260bd9be3"
-            }
-        ]
-    },
-    {
-        "sha": "769762fdc544734ffe5eabc9e7d1c42260bd9be3",
-        "node_id": "C_kwDOB3k29toAKDc2OTc2MmZkYzU0NDczNGZmZTVlYWJjOWU3ZDFjNDIyNjBiZDliZTM",
-        "commit": {
-            "author": {
-                "name": "Miguel Angel Quinones Garcia",
-                "email": "miguel@miqu.me",
-                "date": "2022-02-14T10:09:03Z"
-            },
-            "committer": {
-                "name": "GitHub",
-                "email": "noreply@github.com",
-                "date": "2022-02-14T10:09:03Z"
-            },
-            "message": "Merge pull request #179 from argentlabs/issue/decoding-negative-int\n\n[FIX] Decoding negative integers",
-            "tree": {
-                "sha": "a58e4192cc3de876b4d687e120b4424e87c517f1",
-                "url": "https://api.github.com/repos/argentlabs/web3.swift/git/trees/a58e4192cc3de876b4d687e120b4424e87c517f1"
-            },
-            "url": "https://api.github.com/repos/argentlabs/web3.swift/git/commits/769762fdc544734ffe5eabc9e7d1c42260bd9be3",
-            "comment_count": 0,
-            "verification": {
-                "verified": true,
-                "reason": "valid",
-                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJiCio/CRBK7hj4Ov3rIwAA9ZUIAElZvToPjroVzEKecUM2mLMs\n1pUr7TEWPGc4EDgvsVBeRhxvT/uPQS4MarbBhMpn5C/2OOEgKHzM2o3lHgmC6Pts\n9lBEaD7zTsQdlk4DPwSPDLAGbXhTwWrMpOLQo9HKFP5+AYgVMkevJmJu8TZ+M5z5\n9pYHR/cgjsHz6R3IEe7i9qU7h20IghFba/PXzvhCDrgYEiZLHTE4W1Q2JgoFkc0d\nziQk7OV3rz6AWIsHfjVPeNmViPdPqtEIeZG0IZr26Mul4FC4WgDhch17aHGjhX7d\npJZCysB06QWSAglN1KqyEQxC0niX9wPW6/mVrebgjNtZk8nI8z6ZrWpyfG4sxJQ=\n=uVf+\n-----END PGP SIGNATURE-----\n",
-                "payload": "tree a58e4192cc3de876b4d687e120b4424e87c517f1\nparent c5bd9c15f432a1f63a09b515473181b6ad48dd82\nparent 7afc5cf51a29ff974569d57da746db145b1af5eb\nauthor Miguel Angel Quinones Garcia <miguel@miqu.me> 1644833343 +0100\ncommitter GitHub <noreply@github.com> 1644833343 +0100\n\nMerge pull request #179 from argentlabs/issue/decoding-negative-int\n\n[FIX] Decoding negative integers"
-            }
-        },
-        "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/769762fdc544734ffe5eabc9e7d1c42260bd9be3",
-        "html_url": "https://github.com/argentlabs/web3.swift/commit/769762fdc544734ffe5eabc9e7d1c42260bd9be3",
-        "comments_url": "https://api.github.com/repos/argentlabs/web3.swift/commits/769762fdc544734ffe5eabc9e7d1c42260bd9be3/comments",
-        "author": {
-            "login": "DarthMike",
-            "id": 1030987,
-            "node_id": "MDQ6VXNlcjEwMzA5ODc=",
-            "avatar_url": "https://avatars.githubusercontent.com/u/1030987?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/DarthMike",
-            "html_url": "https://github.com/DarthMike",
-            "followers_url": "https://api.github.com/users/DarthMike/followers",
-            "following_url": "https://api.github.com/users/DarthMike/following{/other_user}",
-            "gists_url": "https://api.github.com/users/DarthMike/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/DarthMike/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/DarthMike/subscriptions",
-            "organizations_url": "https://api.github.com/users/DarthMike/orgs",
-            "repos_url": "https://api.github.com/users/DarthMike/repos",
-            "events_url": "https://api.github.com/users/DarthMike/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/DarthMike/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "committer": {
-            "login": "web-flow",
-            "id": 19864447,
-            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
-            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/web-flow",
-            "html_url": "https://github.com/web-flow",
-            "followers_url": "https://api.github.com/users/web-flow/followers",
-            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
-            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
-            "organizations_url": "https://api.github.com/users/web-flow/orgs",
-            "repos_url": "https://api.github.com/users/web-flow/repos",
-            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/web-flow/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "parents": [
-            {
-                "sha": "c5bd9c15f432a1f63a09b515473181b6ad48dd82",
-                "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/c5bd9c15f432a1f63a09b515473181b6ad48dd82",
-                "html_url": "https://github.com/argentlabs/web3.swift/commit/c5bd9c15f432a1f63a09b515473181b6ad48dd82"
-            },
-            {
-                "sha": "7afc5cf51a29ff974569d57da746db145b1af5eb",
-                "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/7afc5cf51a29ff974569d57da746db145b1af5eb",
-                "html_url": "https://github.com/argentlabs/web3.swift/commit/7afc5cf51a29ff974569d57da746db145b1af5eb"
-            }
-        ]
-    },
-    {
-        "sha": "7afc5cf51a29ff974569d57da746db145b1af5eb",
-        "node_id": "C_kwDOB3k29toAKDdhZmM1Y2Y1MWEyOWZmOTc0NTY5ZDU3ZGE3NDZkYjE0NWIxYWY1ZWI",
-        "commit": {
-            "author": {
-                "name": "Miguel Angel Quinones Garcia",
-                "email": "miguel@miqu.me",
-                "date": "2022-02-12T14:28:50Z"
-            },
-            "committer": {
-                "name": "GitHub",
-                "email": "noreply@github.com",
-                "date": "2022-02-12T14:28:50Z"
-            },
-            "message": "Merge branch 'develop' into issue/decoding-negative-int",
-            "tree": {
-                "sha": "a58e4192cc3de876b4d687e120b4424e87c517f1",
-                "url": "https://api.github.com/repos/argentlabs/web3.swift/git/trees/a58e4192cc3de876b4d687e120b4424e87c517f1"
-            },
-            "url": "https://api.github.com/repos/argentlabs/web3.swift/git/commits/7afc5cf51a29ff974569d57da746db145b1af5eb",
-            "comment_count": 0,
-            "verification": {
-                "verified": true,
-                "reason": "valid",
-                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJiB8QiCRBK7hj4Ov3rIwAA9UwIAGMfKm+uGhFSqleRr6RLvbI6\ne1ITJGNxpOSL4vuqPCD0obmB17b0miFjZdRgT0ImCdKng8r9puNwjT/oqlgbe71h\nPFxXEVISygLKZ6jGyKapq98ymy2kYr0GdP77plJuVoEWGtqPQQw0LeVj+yryC2xp\nG0IhfYh5P4klwX6YHdOyQzo+3UJmq5QEh1tmbUTR8MSBGF/S+s1CVLr6ViRDWntj\nwdFfwjTCSd1ot8oQNuME2AZ7RgLhM15kzzAtuNLQoKxKmaPVioe7p5cCZ7IisxQT\nRcKmwPlDJ7w0A/VwYx0ccPaaYN9pqp3d6/urWV/gDRAhtIdLaXc/pYiB+XUmxe8=\n=kdmv\n-----END PGP SIGNATURE-----\n",
-                "payload": "tree a58e4192cc3de876b4d687e120b4424e87c517f1\nparent 4b3838f98b6a6cd2e9b429fb2e5451a7476e56fd\nparent c5bd9c15f432a1f63a09b515473181b6ad48dd82\nauthor Miguel Angel Quinones Garcia <miguel@miqu.me> 1644676130 +0100\ncommitter GitHub <noreply@github.com> 1644676130 +0100\n\nMerge branch 'develop' into issue/decoding-negative-int"
-            }
-        },
-        "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/7afc5cf51a29ff974569d57da746db145b1af5eb",
-        "html_url": "https://github.com/argentlabs/web3.swift/commit/7afc5cf51a29ff974569d57da746db145b1af5eb",
-        "comments_url": "https://api.github.com/repos/argentlabs/web3.swift/commits/7afc5cf51a29ff974569d57da746db145b1af5eb/comments",
-        "author": {
-            "login": "DarthMike",
-            "id": 1030987,
-            "node_id": "MDQ6VXNlcjEwMzA5ODc=",
-            "avatar_url": "https://avatars.githubusercontent.com/u/1030987?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/DarthMike",
-            "html_url": "https://github.com/DarthMike",
-            "followers_url": "https://api.github.com/users/DarthMike/followers",
-            "following_url": "https://api.github.com/users/DarthMike/following{/other_user}",
-            "gists_url": "https://api.github.com/users/DarthMike/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/DarthMike/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/DarthMike/subscriptions",
-            "organizations_url": "https://api.github.com/users/DarthMike/orgs",
-            "repos_url": "https://api.github.com/users/DarthMike/repos",
-            "events_url": "https://api.github.com/users/DarthMike/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/DarthMike/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "committer": {
-            "login": "web-flow",
-            "id": 19864447,
-            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
-            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/web-flow",
-            "html_url": "https://github.com/web-flow",
-            "followers_url": "https://api.github.com/users/web-flow/followers",
-            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
-            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
-            "organizations_url": "https://api.github.com/users/web-flow/orgs",
-            "repos_url": "https://api.github.com/users/web-flow/repos",
-            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/web-flow/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "parents": [
-            {
-                "sha": "4b3838f98b6a6cd2e9b429fb2e5451a7476e56fd",
-                "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/4b3838f98b6a6cd2e9b429fb2e5451a7476e56fd",
-                "html_url": "https://github.com/argentlabs/web3.swift/commit/4b3838f98b6a6cd2e9b429fb2e5451a7476e56fd"
-            },
-            {
-                "sha": "c5bd9c15f432a1f63a09b515473181b6ad48dd82",
-                "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/c5bd9c15f432a1f63a09b515473181b6ad48dd82",
-                "html_url": "https://github.com/argentlabs/web3.swift/commit/c5bd9c15f432a1f63a09b515473181b6ad48dd82"
-            }
-        ]
-    },
-    {
-        "sha": "c5bd9c15f432a1f63a09b515473181b6ad48dd82",
-        "node_id": "C_kwDOB3k29toAKGM1YmQ5YzE1ZjQzMmExZjYzYTA5YjUxNTQ3MzE4MWI2YWQ0OGRkODI",
-        "commit": {
-            "author": {
-                "name": "Miguel Angel Quinones Garcia",
-                "email": "miguel@miqu.me",
-                "date": "2022-02-12T14:28:38Z"
-            },
-            "committer": {
-                "name": "GitHub",
-                "email": "noreply@github.com",
-                "date": "2022-02-12T14:28:38Z"
-            },
-            "message": "Merge pull request #180 from rkreutz/bugfix/linux-signing\n\nFixing weird issue around signing/hashing on Linux",
-            "tree": {
-                "sha": "f6a53a178525924f2b9766a4c9e94952f1df9fea",
-                "url": "https://api.github.com/repos/argentlabs/web3.swift/git/trees/f6a53a178525924f2b9766a4c9e94952f1df9fea"
-            },
-            "url": "https://api.github.com/repos/argentlabs/web3.swift/git/commits/c5bd9c15f432a1f63a09b515473181b6ad48dd82",
-            "comment_count": 0,
-            "verification": {
-                "verified": true,
-                "reason": "valid",
-                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJiB8QWCRBK7hj4Ov3rIwAAQrwIAC6DVexA7lT1byivsBiS0GjD\nAt+mjoNe5DikHwtG3WEH2vVNc5UA1lk/KdkGUCtj3nPBkQI3Gyud4F1UisahKg5r\nAvqsFOWlvuiryBPZ8wwe9zxQASibSU5A9e6/lxmC4rRqbTCi1WJKNPAxuQxDuYlA\ntJwEWZYmlhZ4UWNckmuUhVubzaV3jmYLFlCV2NGnTsCT2LCaYjxFu/jYF3X/gkD8\ncdXLlcGK5X+CxWd2yHSEVCQpopGe3+cjL4WZ8pFGkjD094Zyuv2t4BCta1NjY7Aw\nARlr5iv85qAd7ZlznQaVkBJ2n8qvnmwCrAxRmJ2hv5L/snu7b4sxw5DWiCfHjQ8=\n=VXwD\n-----END PGP SIGNATURE-----\n",
-                "payload": "tree f6a53a178525924f2b9766a4c9e94952f1df9fea\nparent bdc406798e19276d4785a0c83cf1e5773519f91d\nparent 661fc0823fbca531a7607797a23e1363762ed3cc\nauthor Miguel Angel Quinones Garcia <miguel@miqu.me> 1644676118 +0100\ncommitter GitHub <noreply@github.com> 1644676118 +0100\n\nMerge pull request #180 from rkreutz/bugfix/linux-signing\n\nFixing weird issue around signing/hashing on Linux"
-            }
-        },
-        "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/c5bd9c15f432a1f63a09b515473181b6ad48dd82",
-        "html_url": "https://github.com/argentlabs/web3.swift/commit/c5bd9c15f432a1f63a09b515473181b6ad48dd82",
-        "comments_url": "https://api.github.com/repos/argentlabs/web3.swift/commits/c5bd9c15f432a1f63a09b515473181b6ad48dd82/comments",
-        "author": {
-            "login": "DarthMike",
-            "id": 1030987,
-            "node_id": "MDQ6VXNlcjEwMzA5ODc=",
-            "avatar_url": "https://avatars.githubusercontent.com/u/1030987?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/DarthMike",
-            "html_url": "https://github.com/DarthMike",
-            "followers_url": "https://api.github.com/users/DarthMike/followers",
-            "following_url": "https://api.github.com/users/DarthMike/following{/other_user}",
-            "gists_url": "https://api.github.com/users/DarthMike/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/DarthMike/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/DarthMike/subscriptions",
-            "organizations_url": "https://api.github.com/users/DarthMike/orgs",
-            "repos_url": "https://api.github.com/users/DarthMike/repos",
-            "events_url": "https://api.github.com/users/DarthMike/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/DarthMike/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "committer": {
-            "login": "web-flow",
-            "id": 19864447,
-            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
-            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/web-flow",
-            "html_url": "https://github.com/web-flow",
-            "followers_url": "https://api.github.com/users/web-flow/followers",
-            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
-            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
-            "organizations_url": "https://api.github.com/users/web-flow/orgs",
-            "repos_url": "https://api.github.com/users/web-flow/repos",
-            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/web-flow/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "parents": [
-            {
-                "sha": "bdc406798e19276d4785a0c83cf1e5773519f91d",
-                "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/bdc406798e19276d4785a0c83cf1e5773519f91d",
-                "html_url": "https://github.com/argentlabs/web3.swift/commit/bdc406798e19276d4785a0c83cf1e5773519f91d"
-            },
-            {
-                "sha": "661fc0823fbca531a7607797a23e1363762ed3cc",
-                "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/661fc0823fbca531a7607797a23e1363762ed3cc",
-                "html_url": "https://github.com/argentlabs/web3.swift/commit/661fc0823fbca531a7607797a23e1363762ed3cc"
-            }
-        ]
-    },
-    {
-        "sha": "661fc0823fbca531a7607797a23e1363762ed3cc",
-        "node_id": "C_kwDOB3k29toAKDY2MWZjMDgyM2ZiY2E1MzFhNzYwNzc5N2EyM2UxMzYzNzYyZWQzY2M",
-        "commit": {
-            "author": {
-                "name": "Miguel Angel Quinones Garcia",
-                "email": "miguel@miqu.me",
-                "date": "2022-02-12T14:19:36Z"
-            },
-            "committer": {
-                "name": "GitHub",
-                "email": "noreply@github.com",
-                "date": "2022-02-12T14:19:36Z"
-            },
-            "message": "Merge branch 'develop' into bugfix/linux-signing",
-            "tree": {
-                "sha": "f6a53a178525924f2b9766a4c9e94952f1df9fea",
-                "url": "https://api.github.com/repos/argentlabs/web3.swift/git/trees/f6a53a178525924f2b9766a4c9e94952f1df9fea"
-            },
-            "url": "https://api.github.com/repos/argentlabs/web3.swift/git/commits/661fc0823fbca531a7607797a23e1363762ed3cc",
-            "comment_count": 0,
-            "verification": {
-                "verified": true,
-                "reason": "valid",
-                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJiB8H4CRBK7hj4Ov3rIwAAHN8IAJGomdYOWPvLrpBKJ2bQj2J/\nIG0w93ENvsH7y/mhf0FTP8LLXJZkSfcfkNQ3PhrxN0yYKddbxnCRT/9gsMRADaju\nldFAlGPcxUP2HlzyfqBMdQfMeeVuf4GA17jzGc6rkYcy44tOqmtSiPzCBe85DyyG\n9kdehX7v2Wnqh0yLFHMXZ45RCzfetEzvd9IgSznyqBAyPfJ7pii5mJoZ8w8bwBYX\ntWv+G9wicTt/hsH2PwE9jm+wjU56hKr7zsAZyJ6C9AkDBaqcTI68JiTYUbSKWb57\nMPhCpbQDNn4g2BIikHa+3zevz40mVjq2doUgMFLXtY1h0ejYzT9VBgSBNb/f2RE=\n=HU2i\n-----END PGP SIGNATURE-----\n",
-                "payload": "tree f6a53a178525924f2b9766a4c9e94952f1df9fea\nparent da8599c6003e9f891a52fe2bb4c6a6e58865a4dd\nparent bdc406798e19276d4785a0c83cf1e5773519f91d\nauthor Miguel Angel Quinones Garcia <miguel@miqu.me> 1644675576 +0100\ncommitter GitHub <noreply@github.com> 1644675576 +0100\n\nMerge branch 'develop' into bugfix/linux-signing"
-            }
-        },
-        "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/661fc0823fbca531a7607797a23e1363762ed3cc",
-        "html_url": "https://github.com/argentlabs/web3.swift/commit/661fc0823fbca531a7607797a23e1363762ed3cc",
-        "comments_url": "https://api.github.com/repos/argentlabs/web3.swift/commits/661fc0823fbca531a7607797a23e1363762ed3cc/comments",
-        "author": {
-            "login": "DarthMike",
-            "id": 1030987,
-            "node_id": "MDQ6VXNlcjEwMzA5ODc=",
-            "avatar_url": "https://avatars.githubusercontent.com/u/1030987?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/DarthMike",
-            "html_url": "https://github.com/DarthMike",
-            "followers_url": "https://api.github.com/users/DarthMike/followers",
-            "following_url": "https://api.github.com/users/DarthMike/following{/other_user}",
-            "gists_url": "https://api.github.com/users/DarthMike/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/DarthMike/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/DarthMike/subscriptions",
-            "organizations_url": "https://api.github.com/users/DarthMike/orgs",
-            "repos_url": "https://api.github.com/users/DarthMike/repos",
-            "events_url": "https://api.github.com/users/DarthMike/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/DarthMike/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "committer": {
-            "login": "web-flow",
-            "id": 19864447,
-            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
-            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/web-flow",
-            "html_url": "https://github.com/web-flow",
-            "followers_url": "https://api.github.com/users/web-flow/followers",
-            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
-            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
-            "organizations_url": "https://api.github.com/users/web-flow/orgs",
-            "repos_url": "https://api.github.com/users/web-flow/repos",
-            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/web-flow/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "parents": [
-            {
-                "sha": "da8599c6003e9f891a52fe2bb4c6a6e58865a4dd",
-                "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/da8599c6003e9f891a52fe2bb4c6a6e58865a4dd",
-                "html_url": "https://github.com/argentlabs/web3.swift/commit/da8599c6003e9f891a52fe2bb4c6a6e58865a4dd"
-            },
-            {
-                "sha": "bdc406798e19276d4785a0c83cf1e5773519f91d",
-                "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/bdc406798e19276d4785a0c83cf1e5773519f91d",
-                "html_url": "https://github.com/argentlabs/web3.swift/commit/bdc406798e19276d4785a0c83cf1e5773519f91d"
-            }
-        ]
-    },
-    {
-        "sha": "bdc406798e19276d4785a0c83cf1e5773519f91d",
-        "node_id": "C_kwDOB3k29toAKGJkYzQwNjc5OGUxOTI3NmQ0Nzg1YTBjODNjZjFlNTc3MzUxOWY5MWQ",
-        "commit": {
-            "author": {
-                "name": "Miguel Angel Quinones",
-                "email": "miguel@miqu.me",
-                "date": "2022-02-12T14:19:13Z"
-            },
-            "committer": {
-                "name": "Miguel Angel Quinones",
-                "email": "miguel@miqu.me",
-                "date": "2022-02-12T14:19:13Z"
-            },
-            "message": "[FIX] Tests",
-            "tree": {
-                "sha": "ee2d7c1f4c7cf6a88e0d8181edd7f59fe2bf24de",
-                "url": "https://api.github.com/repos/argentlabs/web3.swift/git/trees/ee2d7c1f4c7cf6a88e0d8181edd7f59fe2bf24de"
-            },
-            "url": "https://api.github.com/repos/argentlabs/web3.swift/git/commits/bdc406798e19276d4785a0c83cf1e5773519f91d",
-            "comment_count": 0,
-            "verification": {
-                "verified": false,
-                "reason": "unsigned",
-                "signature": null,
-                "payload": null
-            }
-        },
-        "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/bdc406798e19276d4785a0c83cf1e5773519f91d",
-        "html_url": "https://github.com/argentlabs/web3.swift/commit/bdc406798e19276d4785a0c83cf1e5773519f91d",
-        "comments_url": "https://api.github.com/repos/argentlabs/web3.swift/commits/bdc406798e19276d4785a0c83cf1e5773519f91d/comments",
-        "author": {
-            "login": "DarthMike",
-            "id": 1030987,
-            "node_id": "MDQ6VXNlcjEwMzA5ODc=",
-            "avatar_url": "https://avatars.githubusercontent.com/u/1030987?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/DarthMike",
-            "html_url": "https://github.com/DarthMike",
-            "followers_url": "https://api.github.com/users/DarthMike/followers",
-            "following_url": "https://api.github.com/users/DarthMike/following{/other_user}",
-            "gists_url": "https://api.github.com/users/DarthMike/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/DarthMike/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/DarthMike/subscriptions",
-            "organizations_url": "https://api.github.com/users/DarthMike/orgs",
-            "repos_url": "https://api.github.com/users/DarthMike/repos",
-            "events_url": "https://api.github.com/users/DarthMike/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/DarthMike/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "committer": {
-            "login": "DarthMike",
-            "id": 1030987,
-            "node_id": "MDQ6VXNlcjEwMzA5ODc=",
-            "avatar_url": "https://avatars.githubusercontent.com/u/1030987?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/DarthMike",
-            "html_url": "https://github.com/DarthMike",
-            "followers_url": "https://api.github.com/users/DarthMike/followers",
-            "following_url": "https://api.github.com/users/DarthMike/following{/other_user}",
-            "gists_url": "https://api.github.com/users/DarthMike/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/DarthMike/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/DarthMike/subscriptions",
-            "organizations_url": "https://api.github.com/users/DarthMike/orgs",
-            "repos_url": "https://api.github.com/users/DarthMike/repos",
-            "events_url": "https://api.github.com/users/DarthMike/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/DarthMike/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "parents": [
-            {
-                "sha": "e0b9b31eef900e4f5feb1b7d692c6a6b1148d3ce",
-                "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/e0b9b31eef900e4f5feb1b7d692c6a6b1148d3ce",
-                "html_url": "https://github.com/argentlabs/web3.swift/commit/e0b9b31eef900e4f5feb1b7d692c6a6b1148d3ce"
-            }
-        ]
-    },
-    {
-        "sha": "da8599c6003e9f891a52fe2bb4c6a6e58865a4dd",
-        "node_id": "C_kwDOB3k29toAKGRhODU5OWM2MDAzZTlmODkxYTUyZmUyYmI0YzZhNmU1ODg2NWE0ZGQ",
-        "commit": {
-            "author": {
-                "name": "Rodrigo Kreutz",
-                "email": "rodrigo.kreutz@teamwork.com",
-                "date": "2022-02-11T18:12:13Z"
-            },
-            "committer": {
-                "name": "Rodrigo Kreutz",
-                "email": "rodrigo.kreutz@teamwork.com",
-                "date": "2022-02-11T18:12:13Z"
-            },
-            "message": "Fixing weird issue around signing/hashing on Linux",
-            "tree": {
-                "sha": "3d57cbcf984624dee44380a80ec99792cc999303",
-                "url": "https://api.github.com/repos/argentlabs/web3.swift/git/trees/3d57cbcf984624dee44380a80ec99792cc999303"
-            },
-            "url": "https://api.github.com/repos/argentlabs/web3.swift/git/commits/da8599c6003e9f891a52fe2bb4c6a6e58865a4dd",
-            "comment_count": 0,
-            "verification": {
-                "verified": false,
-                "reason": "unsigned",
-                "signature": null,
-                "payload": null
-            }
-        },
-        "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/da8599c6003e9f891a52fe2bb4c6a6e58865a4dd",
-        "html_url": "https://github.com/argentlabs/web3.swift/commit/da8599c6003e9f891a52fe2bb4c6a6e58865a4dd",
-        "comments_url": "https://api.github.com/repos/argentlabs/web3.swift/commits/da8599c6003e9f891a52fe2bb4c6a6e58865a4dd/comments",
-        "author": {
-            "login": "rkreutz-teamwork",
-            "id": 39093828,
-            "node_id": "MDQ6VXNlcjM5MDkzODI4",
-            "avatar_url": "https://avatars.githubusercontent.com/u/39093828?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/rkreutz-teamwork",
-            "html_url": "https://github.com/rkreutz-teamwork",
-            "followers_url": "https://api.github.com/users/rkreutz-teamwork/followers",
-            "following_url": "https://api.github.com/users/rkreutz-teamwork/following{/other_user}",
-            "gists_url": "https://api.github.com/users/rkreutz-teamwork/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/rkreutz-teamwork/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/rkreutz-teamwork/subscriptions",
-            "organizations_url": "https://api.github.com/users/rkreutz-teamwork/orgs",
-            "repos_url": "https://api.github.com/users/rkreutz-teamwork/repos",
-            "events_url": "https://api.github.com/users/rkreutz-teamwork/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/rkreutz-teamwork/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "committer": {
-            "login": "rkreutz-teamwork",
-            "id": 39093828,
-            "node_id": "MDQ6VXNlcjM5MDkzODI4",
-            "avatar_url": "https://avatars.githubusercontent.com/u/39093828?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/rkreutz-teamwork",
-            "html_url": "https://github.com/rkreutz-teamwork",
-            "followers_url": "https://api.github.com/users/rkreutz-teamwork/followers",
-            "following_url": "https://api.github.com/users/rkreutz-teamwork/following{/other_user}",
-            "gists_url": "https://api.github.com/users/rkreutz-teamwork/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/rkreutz-teamwork/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/rkreutz-teamwork/subscriptions",
-            "organizations_url": "https://api.github.com/users/rkreutz-teamwork/orgs",
-            "repos_url": "https://api.github.com/users/rkreutz-teamwork/repos",
-            "events_url": "https://api.github.com/users/rkreutz-teamwork/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/rkreutz-teamwork/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "parents": [
-            {
-                "sha": "e0b9b31eef900e4f5feb1b7d692c6a6b1148d3ce",
-                "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/e0b9b31eef900e4f5feb1b7d692c6a6b1148d3ce",
-                "html_url": "https://github.com/argentlabs/web3.swift/commit/e0b9b31eef900e4f5feb1b7d692c6a6b1148d3ce"
-            }
-        ]
-    },
-    {
-        "sha": "e0b9b31eef900e4f5feb1b7d692c6a6b1148d3ce",
-        "node_id": "C_kwDOB3k29toAKGUwYjliMzFlZWY5MDBlNGY1ZmViMWI3ZDY5MmM2YTZiMTE0OGQzY2U",
-        "commit": {
-            "author": {
-                "name": "Miguel Angel Quinones Garcia",
-                "email": "miguel@miqu.me",
-                "date": "2022-02-11T10:32:44Z"
-            },
-            "committer": {
-                "name": "GitHub",
-                "email": "noreply@github.com",
-                "date": "2022-02-11T10:32:44Z"
-            },
-            "message": "Merge pull request #178 from dnKaratzas/concurrency\n\nAdd async APIs for callbacks, add tests for async methods",
-            "tree": {
-                "sha": "b0bb06c32ab7dbfa148bb0b68cb7ff1b62448473",
-                "url": "https://api.github.com/repos/argentlabs/web3.swift/git/trees/b0bb06c32ab7dbfa148bb0b68cb7ff1b62448473"
-            },
-            "url": "https://api.github.com/repos/argentlabs/web3.swift/git/commits/e0b9b31eef900e4f5feb1b7d692c6a6b1148d3ce",
-            "comment_count": 0,
-            "verification": {
-                "verified": true,
-                "reason": "valid",
-                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJiBjtMCRBK7hj4Ov3rIwAAhzUIADGunzLt7LnLeqNv1L+QshqG\ny3MsIYEwCtxVpZ9EbVh7kCzsI9QJ8ABOIffDu+9yU+iyx0Anhve5EtHPKP9NRbYW\nwZ1XIwSb8CdVsUTZs/voGucI+JwMR85l0wXWbjyixXfw4AYA9wl5+Wr0nWnMprcK\n1M8sElFIsfHxmcg3r7J8BuWGZM38CVaH3bPcsjlpjbaFinzCBSR8ZWPjkLUMER5m\nzlH6ZTa8q0K3f65UdN5qEPqwjM/w+6+cJXTo0x1JjqVzmVcQTWmr3hgj1uMjENc8\nHgMJgU7JWkNTIIk0GfU8CqPK8lvUh+CPZOaUFMNVMJFfl1r4QARWfZZgv7TnG8Y=\n=3Swv\n-----END PGP SIGNATURE-----\n",
-                "payload": "tree b0bb06c32ab7dbfa148bb0b68cb7ff1b62448473\nparent 3974a434b356e9548c515b51ef484907f5c0d0a6\nparent 9757f802582eb502386133e3ef89ee2399a91e02\nauthor Miguel Angel Quinones Garcia <miguel@miqu.me> 1644575564 +0100\ncommitter GitHub <noreply@github.com> 1644575564 +0100\n\nMerge pull request #178 from dnKaratzas/concurrency\n\nAdd async APIs for callbacks, add tests for async methods"
-            }
-        },
-        "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/e0b9b31eef900e4f5feb1b7d692c6a6b1148d3ce",
-        "html_url": "https://github.com/argentlabs/web3.swift/commit/e0b9b31eef900e4f5feb1b7d692c6a6b1148d3ce",
-        "comments_url": "https://api.github.com/repos/argentlabs/web3.swift/commits/e0b9b31eef900e4f5feb1b7d692c6a6b1148d3ce/comments",
-        "author": {
-            "login": "DarthMike",
-            "id": 1030987,
-            "node_id": "MDQ6VXNlcjEwMzA5ODc=",
-            "avatar_url": "https://avatars.githubusercontent.com/u/1030987?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/DarthMike",
-            "html_url": "https://github.com/DarthMike",
-            "followers_url": "https://api.github.com/users/DarthMike/followers",
-            "following_url": "https://api.github.com/users/DarthMike/following{/other_user}",
-            "gists_url": "https://api.github.com/users/DarthMike/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/DarthMike/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/DarthMike/subscriptions",
-            "organizations_url": "https://api.github.com/users/DarthMike/orgs",
-            "repos_url": "https://api.github.com/users/DarthMike/repos",
-            "events_url": "https://api.github.com/users/DarthMike/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/DarthMike/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "committer": {
-            "login": "web-flow",
-            "id": 19864447,
-            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
-            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/web-flow",
-            "html_url": "https://github.com/web-flow",
-            "followers_url": "https://api.github.com/users/web-flow/followers",
-            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
-            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
-            "organizations_url": "https://api.github.com/users/web-flow/orgs",
-            "repos_url": "https://api.github.com/users/web-flow/repos",
-            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/web-flow/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "parents": [
-            {
-                "sha": "3974a434b356e9548c515b51ef484907f5c0d0a6",
-                "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/3974a434b356e9548c515b51ef484907f5c0d0a6",
-                "html_url": "https://github.com/argentlabs/web3.swift/commit/3974a434b356e9548c515b51ef484907f5c0d0a6"
-            },
-            {
-                "sha": "9757f802582eb502386133e3ef89ee2399a91e02",
-                "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/9757f802582eb502386133e3ef89ee2399a91e02",
-                "html_url": "https://github.com/argentlabs/web3.swift/commit/9757f802582eb502386133e3ef89ee2399a91e02"
-            }
-        ]
-    },
-    {
-        "sha": "4b3838f98b6a6cd2e9b429fb2e5451a7476e56fd",
-        "node_id": "C_kwDOB3k29toAKDRiMzgzOGY5OGI2YTZjZDJlOWI0MjlmYjJlNTQ1MWE3NDc2ZTU2ZmQ",
-        "commit": {
-            "author": {
-                "name": "Miguel Angel Quinones",
-                "email": "miguel@miqu.me",
-                "date": "2022-02-10T13:35:25Z"
-            },
-            "committer": {
-                "name": "Miguel Angel Quinones",
-                "email": "miguel@miqu.me",
-                "date": "2022-02-10T19:14:47Z"
-            },
-            "message": "[FIX] Decoding negative integers",
-            "tree": {
-                "sha": "72d64a418e8be7c3ebb3654f1308650508153910",
-                "url": "https://api.github.com/repos/argentlabs/web3.swift/git/trees/72d64a418e8be7c3ebb3654f1308650508153910"
-            },
-            "url": "https://api.github.com/repos/argentlabs/web3.swift/git/commits/4b3838f98b6a6cd2e9b429fb2e5451a7476e56fd",
-            "comment_count": 0,
-            "verification": {
-                "verified": false,
-                "reason": "unsigned",
-                "signature": null,
-                "payload": null
-            }
-        },
-        "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/4b3838f98b6a6cd2e9b429fb2e5451a7476e56fd",
-        "html_url": "https://github.com/argentlabs/web3.swift/commit/4b3838f98b6a6cd2e9b429fb2e5451a7476e56fd",
-        "comments_url": "https://api.github.com/repos/argentlabs/web3.swift/commits/4b3838f98b6a6cd2e9b429fb2e5451a7476e56fd/comments",
-        "author": {
-            "login": "DarthMike",
-            "id": 1030987,
-            "node_id": "MDQ6VXNlcjEwMzA5ODc=",
-            "avatar_url": "https://avatars.githubusercontent.com/u/1030987?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/DarthMike",
-            "html_url": "https://github.com/DarthMike",
-            "followers_url": "https://api.github.com/users/DarthMike/followers",
-            "following_url": "https://api.github.com/users/DarthMike/following{/other_user}",
-            "gists_url": "https://api.github.com/users/DarthMike/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/DarthMike/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/DarthMike/subscriptions",
-            "organizations_url": "https://api.github.com/users/DarthMike/orgs",
-            "repos_url": "https://api.github.com/users/DarthMike/repos",
-            "events_url": "https://api.github.com/users/DarthMike/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/DarthMike/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "committer": {
-            "login": "DarthMike",
-            "id": 1030987,
-            "node_id": "MDQ6VXNlcjEwMzA5ODc=",
-            "avatar_url": "https://avatars.githubusercontent.com/u/1030987?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/DarthMike",
-            "html_url": "https://github.com/DarthMike",
-            "followers_url": "https://api.github.com/users/DarthMike/followers",
-            "following_url": "https://api.github.com/users/DarthMike/following{/other_user}",
-            "gists_url": "https://api.github.com/users/DarthMike/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/DarthMike/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/DarthMike/subscriptions",
-            "organizations_url": "https://api.github.com/users/DarthMike/orgs",
-            "repos_url": "https://api.github.com/users/DarthMike/repos",
-            "events_url": "https://api.github.com/users/DarthMike/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/DarthMike/received_events",
-            "type": "User",
-            "site_admin": false
-        },
-        "parents": [
-            {
-                "sha": "3974a434b356e9548c515b51ef484907f5c0d0a6",
-                "url": "https://api.github.com/repos/argentlabs/web3.swift/commits/3974a434b356e9548c515b51ef484907f5c0d0a6",
-                "html_url": "https://github.com/argentlabs/web3.swift/commit/3974a434b356e9548c515b51ef484907f5c0d0a6"
             }
         ]
     }
