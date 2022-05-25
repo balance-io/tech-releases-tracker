@@ -51,9 +51,9 @@
     ],
     "sections": [],
     "schemaVersion": {
+        "major": 0,
         "minor": 3,
-        "patch": 0,
-        "major": 0
+        "patch": 0
     },
     "abstract": [
         {
