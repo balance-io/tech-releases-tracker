@@ -1,9 +1,10 @@
 {
-    "schemaVersion": {
-        "major": 0,
-        "minor": 3,
-        "patch": 0
-    },
+    "abstract": [
+        {
+            "type": "text",
+            "text": "Learn about changes for Safari for iOS and macOS, Web Inspector, WebKit view for iOS and macOS, and Safari view for iOS."
+        }
+    ],
     "hierarchy": {
         "paths": [
             [
@@ -11,13 +12,13 @@
             ]
         ]
     },
-    "metadata": {
-        "role": "collection",
-        "title": "Safari Release Notes"
-    },
     "identifier": {
         "url": "doc://com.apple.Safari-Release-Notes/documentation/safari-release-notes",
         "interfaceLanguage": "swift"
+    },
+    "metadata": {
+        "title": "Safari Release Notes",
+        "role": "collection"
     },
     "topicSections": [
         {
@@ -60,14 +61,13 @@
             ]
         }
     ],
-    "kind": "article",
     "primaryContentSections": [
         {
             "content": [
                 {
-                    "anchor": "Overview",
-                    "type": "heading",
                     "text": "Overview",
+                    "type": "heading",
+                    "anchor": "Overview",
                     "level": 2
                 },
                 {
@@ -83,90 +83,132 @@
             "kind": "content"
         }
     ],
-    "abstract": [
-        {
-            "text": "Learn about changes for Safari for iOS and macOS, Web Inspector, WebKit view for iOS and macOS, and Safari view for iOS.",
-            "type": "text"
-        }
-    ],
+    "kind": "article",
     "sections": [],
+    "schemaVersion": {
+        "major": 0,
+        "minor": 3,
+        "patch": 0
+    },
     "references": {
         "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-15_6-release-notes": {
-            "url": "/documentation/safari-release-notes/safari-15_6-release-notes",
-            "kind": "article",
-            "title": "Safari 15.6 Release Notes",
-            "type": "topic",
+            "role": "article",
             "identifier": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-15_6-release-notes",
+            "url": "/documentation/safari-release-notes/safari-15_6-release-notes",
+            "type": "topic",
+            "title": "Safari 15.6 Release Notes",
+            "kind": "article",
             "abstract": [
                 {
                     "type": "text",
                     "text": "Update your web content to use new features, and test your web content against API changes."
                 }
-            ],
-            "role": "article"
+            ]
+        },
+        "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-14-release-notes": {
+            "role": "article",
+            "identifier": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-14-release-notes",
+            "url": "/documentation/safari-release-notes/safari-14-release-notes",
+            "type": "topic",
+            "title": "Safari 14 Release Notes",
+            "kind": "article",
+            "abstract": [
+                {
+                    "type": "text",
+                    "text": "Update your web content to use new features and test your web content against API changes."
+                }
+            ]
+        },
+        "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-16_2-release-notes": {
+            "role": "article",
+            "identifier": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-16_2-release-notes",
+            "url": "/documentation/safari-release-notes/safari-16_2-release-notes",
+            "type": "topic",
+            "title": "Safari 16.2 Release Notes",
+            "kind": "article",
+            "abstract": [
+                {
+                    "type": "text",
+                    "text": "Update your web content to use new features and test your web content against API changes."
+                }
+            ]
+        },
+        "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-12_1-release-notes": {
+            "role": "article",
+            "identifier": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-12_1-release-notes",
+            "url": "/documentation/safari-release-notes/safari-12_1-release-notes",
+            "type": "topic",
+            "title": "Safari 12.1 Release Notes",
+            "kind": "article",
+            "abstract": [
+                {
+                    "type": "text",
+                    "text": "Update your apps to use new features, and test your apps against API changes."
+                }
+            ]
+        },
+        "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-13-release-notes": {
+            "role": "article",
+            "identifier": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-13-release-notes",
+            "url": "/documentation/safari-release-notes/safari-13-release-notes",
+            "type": "topic",
+            "title": "Safari 13 Release Notes",
+            "kind": "article",
+            "abstract": [
+                {
+                    "type": "text",
+                    "text": "Update your apps to use new features, and test your apps against API changes."
+                }
+            ]
         },
         "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-15_2-release-notes": {
-            "url": "/documentation/safari-release-notes/safari-15_2-release-notes",
-            "kind": "article",
-            "title": "Safari 15.2 Release Notes",
-            "type": "topic",
-            "identifier": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-15_2-release-notes",
-            "abstract": [
-                {
-                    "type": "text",
-                    "text": "Update your web content to use new features and test your web content against API changes."
-                }
-            ],
-            "role": "article"
-        },
-        "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-15-release-notes": {
-            "title": "Safari 15 Release Notes",
-            "url": "/documentation/safari-release-notes/safari-15-release-notes",
-            "identifier": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-15-release-notes",
-            "type": "topic",
-            "kind": "article",
-            "abstract": [
-                {
-                    "type": "text",
-                    "text": "Update your web content to use new features and test your web content against API changes."
-                }
-            ],
-            "role": "article"
-        },
-        "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-16-release-notes": {
-            "title": "Safari 16 Release Notes",
-            "kind": "article",
-            "type": "topic",
-            "identifier": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-16-release-notes",
             "role": "article",
+            "identifier": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-15_2-release-notes",
+            "url": "/documentation/safari-release-notes/safari-15_2-release-notes",
+            "type": "topic",
+            "title": "Safari 15.2 Release Notes",
+            "kind": "article",
             "abstract": [
                 {
                     "type": "text",
                     "text": "Update your web content to use new features and test your web content against API changes."
                 }
-            ],
-            "url": "/documentation/safari-release-notes/safari-16-release-notes"
+            ]
         },
-        "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-15_4-release-notes": {
-            "url": "/documentation/safari-release-notes/safari-15_4-release-notes",
-            "kind": "article",
-            "title": "Safari 15.4 Release Notes",
+        "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-14_1-release-notes": {
+            "role": "article",
+            "identifier": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-14_1-release-notes",
+            "url": "/documentation/safari-release-notes/safari-14_1-release-notes",
             "type": "topic",
-            "identifier": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-15_4-release-notes",
+            "title": "Safari 14.1 Release Notes",
+            "kind": "article",
+            "abstract": [
+                {
+                    "type": "text",
+                    "text": "Update your web content to use new features and test your web content against API changes."
+                }
+            ]
+        },
+        "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-15_5-release-notes": {
+            "title": "Safari 15.5 Release Notes",
+            "role": "article",
+            "type": "topic",
+            "kind": "article",
+            "url": "/documentation/safari-release-notes/safari-15_5-release-notes",
+            "identifier": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-15_5-release-notes",
             "abstract": [
                 {
                     "type": "text",
                     "text": "Update your web content to use new features, and test your web content against API changes."
                 }
-            ],
-            "role": "article"
+            ]
         },
         "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-16_1-release-notes": {
+            "role": "article",
+            "type": "topic",
             "title": "Safari 16.1 Release Notes",
             "kind": "article",
-            "type": "topic",
             "identifier": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-16_1-release-notes",
-            "role": "article",
             "abstract": [
                 {
                     "type": "text",
@@ -175,59 +217,73 @@
             ],
             "url": "/documentation/safari-release-notes/safari-16_1-release-notes"
         },
-        "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-16_2-release-notes": {
-            "title": "Safari 16.2 Beta Release Notes",
-            "url": "/documentation/safari-release-notes/safari-16_2-release-notes",
-            "identifier": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-16_2-release-notes",
+        "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-13_1-release_notes": {
             "type": "topic",
-            "kind": "article",
+            "identifier": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-13_1-release_notes",
+            "title": "Safari 13.1 Release Notes",
             "abstract": [
                 {
-                    "text": "Update your web content to use new features and test your web content against API changes.",
-                    "type": "text"
+                    "type": "text",
+                    "text": "Update your apps to use new features, and test your apps against API changes."
                 }
             ],
+            "url": "/documentation/safari-release-notes/safari-13_1-release_notes",
+            "kind": "article",
             "role": "article"
         },
         "doc://com.apple.documentation/documentation/technologies": {
-            "url": "/documentation/technologies",
-            "kind": "technologies",
-            "title": "Technologies",
             "type": "topic",
             "identifier": "doc://com.apple.documentation/documentation/technologies",
+            "title": "Technologies",
             "abstract": [],
+            "url": "/documentation/technologies",
+            "kind": "technologies",
             "role": "overview"
         },
-        "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-13-release-notes": {
-            "title": "Safari 13 Release Notes",
-            "url": "/documentation/safari-release-notes/safari-13-release-notes",
-            "identifier": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-13-release-notes",
+        "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-15_4-release-notes": {
             "type": "topic",
-            "kind": "article",
-            "abstract": [
-                {
-                    "text": "Update your apps to use new features, and test your apps against API changes.",
-                    "type": "text"
-                }
-            ],
-            "role": "article"
-        },
-        "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-15_5-release-notes": {
-            "url": "/documentation/safari-release-notes/safari-15_5-release-notes",
-            "kind": "article",
-            "title": "Safari 15.5 Release Notes",
-            "type": "topic",
-            "identifier": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-15_5-release-notes",
+            "identifier": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-15_4-release-notes",
+            "title": "Safari 15.4 Release Notes",
             "abstract": [
                 {
                     "type": "text",
                     "text": "Update your web content to use new features, and test your web content against API changes."
                 }
             ],
+            "url": "/documentation/safari-release-notes/safari-15_4-release-notes",
+            "kind": "article",
             "role": "article"
         },
-        "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-12-release-notes": {
+        "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-16-release-notes": {
             "type": "topic",
+            "identifier": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-16-release-notes",
+            "title": "Safari 16 Release Notes",
+            "abstract": [
+                {
+                    "type": "text",
+                    "text": "Update your web content to use new features and test your web content against API changes."
+                }
+            ],
+            "url": "/documentation/safari-release-notes/safari-16-release-notes",
+            "kind": "article",
+            "role": "article"
+        },
+        "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-15-release-notes": {
+            "type": "topic",
+            "role": "article",
+            "url": "/documentation/safari-release-notes/safari-15-release-notes",
+            "title": "Safari 15 Release Notes",
+            "kind": "article",
+            "identifier": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-15-release-notes",
+            "abstract": [
+                {
+                    "type": "text",
+                    "text": "Update your web content to use new features and test your web content against API changes."
+                }
+            ]
+        },
+        "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-12-release-notes": {
+            "title": "Safari 12 Release Notes",
             "identifier": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-12-release-notes",
             "abstract": [
                 {
@@ -235,66 +291,10 @@
                     "text": "Update your apps to use new features, and test your apps against API changes."
                 }
             ],
-            "role": "article",
-            "title": "Safari 12 Release Notes",
+            "kind": "article",
             "url": "/documentation/safari-release-notes/safari-12-release-notes",
-            "kind": "article"
-        },
-        "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-14_1-release-notes": {
-            "title": "Safari 14.1 Release Notes",
-            "url": "/documentation/safari-release-notes/safari-14_1-release-notes",
-            "identifier": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-14_1-release-notes",
-            "type": "topic",
-            "kind": "article",
-            "abstract": [
-                {
-                    "type": "text",
-                    "text": "Update your web content to use new features and test your web content against API changes."
-                }
-            ],
-            "role": "article"
-        },
-        "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-12_1-release-notes": {
-            "identifier": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-12_1-release-notes",
-            "abstract": [
-                {
-                    "type": "text",
-                    "text": "Update your apps to use new features, and test your apps against API changes."
-                }
-            ],
-            "type": "topic",
-            "title": "Safari 12.1 Release Notes",
-            "url": "/documentation/safari-release-notes/safari-12_1-release-notes",
-            "kind": "article",
-            "role": "article"
-        },
-        "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-13_1-release_notes": {
-            "type": "topic",
-            "identifier": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-13_1-release_notes",
-            "abstract": [
-                {
-                    "text": "Update your apps to use new features, and test your apps against API changes.",
-                    "type": "text"
-                }
-            ],
             "role": "article",
-            "title": "Safari 13.1 Release Notes",
-            "url": "/documentation/safari-release-notes/safari-13_1-release_notes",
-            "kind": "article"
-        },
-        "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-14-release-notes": {
-            "type": "topic",
-            "identifier": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-14-release-notes",
-            "abstract": [
-                {
-                    "type": "text",
-                    "text": "Update your web content to use new features and test your web content against API changes."
-                }
-            ],
-            "role": "article",
-            "title": "Safari 14 Release Notes",
-            "url": "/documentation/safari-release-notes/safari-14-release-notes",
-            "kind": "article"
+            "type": "topic"
         }
     },
     "legalNotices": {
